@@ -1,5 +1,7 @@
 # Megalink
 
+[![code style](https://antfu.me/badge-code-style.svg)](https://github.com/antfu/eslint-config)
+
 *Linking You to the Web's Finest: 🌐 Explore, Connect, Click!*
 
 We recommend to look at the [documentation](https://v3.nuxtjs.org).

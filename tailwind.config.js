@@ -1,3 +1,6 @@
+/* eslint-env es6 */
+/* eslint-disable no-console */
+
 /** @type {import('tailwindcss/types').Config} */
 
 const defaultTheme = require('tailwindcss/defaultTheme')
