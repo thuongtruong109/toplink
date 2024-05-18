@@ -1,9 +1,82 @@
 [
     {
         "id": "music_id",
-        "title": "Nghe Nhạc - BXH Âm Nhạc"
+        "title": "Nghe Nhạc - BXH Âm Nhạc",
+        "icon": "https://avatars.mds.yandex.net/i?id=a4cbc30a98be8703628beaebe0acac5ef28011f7-9989050-images-thumbs&n=13",
+        "items": [
+            {
+                "name": "Zing mp3",
+                "img": "https://avatars.mds.yandex.net/i?id=a4cbc30a98be8703628beaebe0acac5ef28011f7-9989050-images-thumbs&n=13"
+            },
+            {
+                "name": "NCT",
+                "img": "https://avatars.mds.yandex.net/i?id=a4cbc30a98be8703628beaebe0acac5ef28011f7-9989050-images-thumbs&n=13"
+            },
+            {
+                "name": "SoundCloud",
+                "img": "https://avatars.mds.yandex.net/i?id=a4cbc30a98be8703628beaebe0acac5ef28011f7-9989050-images-thumbs&n=13"
+            },
+            {
+                "name": "Billboard 100",
+                "img": "https://avatars.mds.yandex.net/i?id=a4cbc30a98be8703628beaebe0acac5ef28011f7-9989050-images-thumbs&n=13"
+            },
+            {
+                "name": "Youtube",
+                "img": "https://avatars.mds.yandex.net/i?id=a4cbc30a98be8703628beaebe0acac5ef28011f7-9989050-images-thumbs&n=13"
+            }
+        ],
+        "color": "pink"
     },
     {
-        "": ""
+        "id": "social_network_id",
+        "title": "Nghe Nhạc - BXH Âm Nhạc",
+        "icon": "https://avatars.mds.yandex.net/i?id=a4cbc30a98be8703628beaebe0acac5ef28011f7-9989050-images-thumbs&n=13",
+        "items": [
+            {
+                "name": "Facebook",
+                "img": "https://avatars.mds.yandex.net/i?id=a4cbc30a98be8703628beaebe0acac5ef28011f7-9989050-images-thumbs&n=13"
+            },
+            {
+                "name": "Instagram",
+                "img": "https://avatars.mds.yandex.net/i?id=a4cbc30a98be8703628beaebe0acac5ef28011f7-9989050-images-thumbs&n=13"
+            },
+            {
+                "name": "Tiktok",
+                "img": "https://avatars.mds.yandex.net/i?id=a4cbc30a98be8703628beaebe0acac5ef28011f7-9989050-images-thumbs&n=13"
+            },
+            {
+                "name": "Twitter",
+                "img": "https://avatars.mds.yandex.net/i?id=a4cbc30a98be8703628beaebe0acac5ef28011f7-9989050-images-thumbs&n=13"
+            },
+            {
+                "name": "Snapchat",
+                "img": "https://avatars.mds.yandex.net/i?id=a4cbc30a98be8703628beaebe0acac5ef28011f7-9989050-images-thumbs&n=13"
+            },
+            {
+                "name": "Tiktok",
+                "img": "https://avatars.mds.yandex.net/i?id=a4cbc30a98be8703628beaebe0acac5ef28011f7-9989050-images-thumbs&n=13"
+            }
+        ],
+        "color": "blue"
+    },
+    {
+        "id": "search_engine_id",
+        "title": "Nghe Nhạc - BXH Âm Nhạc",
+        "icon": "https://avatars.mds.yandex.net/i?id=a4cbc30a98be8703628beaebe0acac5ef28011f7-9989050-images-thumbs&n=13",
+        "items": [
+            {
+                "name": "Facebook",
+                "img": "https://avatars.mds.yandex.net/i?id=a4cbc30a98be8703628beaebe0acac5ef28011f7-9989050-images-thumbs&n=13"
+            },
+            {
+                "name": "Facebook",
+                "img": "https://avatars.mds.yandex.net/i?id=a4cbc30a98be8703628beaebe0acac5ef28011f7-9989050-images-thumbs&n=13"
+            },
+            {
+                "name": "Facebook",
+                "img": "https://avatars.mds.yandex.net/i?id=a4cbc30a98be8703628beaebe0acac5ef28011f7-9989050-images-thumbs&n=13"
+            }
+        ],
+        "color": "green"
     }
 ]

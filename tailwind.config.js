@@ -16,6 +16,26 @@ module.exports = {
     './assets/**/*.scss',
     './assets/**/*.css',
   ],
+  safelist: [
+    {
+      pattern: /border-(blue|green|indigo|pink|orange|rose|purple)-(200)/,
+      variants: ['hover'],
+    },
+    {
+      pattern: /bg-(blue|green|indigo|pink|orange|rose|purple)-50\/50/
+    },
+    {
+      pattern: /border-(blue|green|indigo|pink|orange|rose|purple)-100/,
+    },
+    {
+      pattern: /ring-(blue|green|indigo|pink|orange|rose|purple)-300/,
+      variants: ['group-hover'],
+    },
+    {
+      pattern: /text-(blue|green|indigo|pink|orange|rose|purple)-500/,
+      variants: ['group-hover'],
+    },
+  ],
   theme: {
     extend: {
       fontFamily: {

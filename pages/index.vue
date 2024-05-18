@@ -13,8 +13,8 @@ const lists = computed<ILink[]>(() => [
 </script> -->
 
 <template>
-  <div class="mx-auto mt-4">
-    <Header />
+  <div class="min-h-screen">
+    <Lists />
     <!-- <div class="flex flex-col">
       <h1>{{ t("follow") }}</h1>
       <div class="flex w-full items-center justify-between py-2">
