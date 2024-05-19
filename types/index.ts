@@ -8,6 +8,7 @@ export interface ILink {
 export type IUrlItem = {
   name: string
   img: string
+  link: string
 }
 
 export type IUrl = {

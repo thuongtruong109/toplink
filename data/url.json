@@ -1,80 +1,278 @@
 [
     {
-        "id": "music_id",
-        "title": "Nghe Nhạc - BXH Âm Nhạc",
-        "icon": "https://avatars.mds.yandex.net/i?id=a4cbc30a98be8703628beaebe0acac5ef28011f7-9989050-images-thumbs&n=13",
+        "id": "music",
+        "title": "Music",
+        "icon": "/icons/music.png",
         "items": [
             {
                 "name": "Zing mp3",
-                "img": "https://avatars.mds.yandex.net/i?id=a4cbc30a98be8703628beaebe0acac5ef28011f7-9989050-images-thumbs&n=13"
+                "img": "https://lh3.googleusercontent.com/pw/ADCreHduJoPaKc3DvyLoLmVCcK_JGZme0awfVkt8WGHc3r6h8qnzDQIgoZpx1_m8naDGNb-Gs7faoKQadTjgc-j29XXbaNoa4JL0R-XBTZv8JTorHwI8aEEIGCP3zBvg_zKpm0clbD-e8Pco008oKbe6x0cZ=w600-h600-s-no?authuser=0",
+                "link": "https://zingmp3.vn/"
             },
             {
                 "name": "NCT",
-                "img": "https://avatars.mds.yandex.net/i?id=a4cbc30a98be8703628beaebe0acac5ef28011f7-9989050-images-thumbs&n=13"
+                "img": "https://lh3.googleusercontent.com/pw/ADCreHc_r6cHFykHbWjmlRhwkn6w3AOVhmwXtTpEGdLo8LbdIrqZ53nEf4JYOwOBORnggpJt1dXmgoy7uyYKWvzie19Bf7UCAenwpThEtPOdXoBVabD7-mZZHv2IiB7HZ-laZjHIwYtLOXCz-TEt-zLd4fFg=w31-h32-s-no?authuser=0",
+                "link": "http://www.nhaccuatui.com/"
             },
             {
                 "name": "SoundCloud",
-                "img": "https://avatars.mds.yandex.net/i?id=a4cbc30a98be8703628beaebe0acac5ef28011f7-9989050-images-thumbs&n=13"
+                "img": "https://avatars.mds.yandex.net/i?id=a4cbc30a98be8703628beaebe0acac5ef28011f7-9989050-images-thumbs&n=13",
+                "link": ""
             },
             {
                 "name": "Billboard 100",
-                "img": "https://avatars.mds.yandex.net/i?id=a4cbc30a98be8703628beaebe0acac5ef28011f7-9989050-images-thumbs&n=13"
+                "img": "https://avatars.mds.yandex.net/i?id=a4cbc30a98be8703628beaebe0acac5ef28011f7-9989050-images-thumbs&n=13",
+                "link": ""
             },
             {
                 "name": "Youtube",
-                "img": "https://avatars.mds.yandex.net/i?id=a4cbc30a98be8703628beaebe0acac5ef28011f7-9989050-images-thumbs&n=13"
+                "img": "https://avatars.mds.yandex.net/i?id=a4cbc30a98be8703628beaebe0acac5ef28011f7-9989050-images-thumbs&n=13",
+                "link": ""
             }
         ],
         "color": "pink"
     },
     {
-        "id": "social_network_id",
-        "title": "Nghe Nhạc - BXH Âm Nhạc",
-        "icon": "https://avatars.mds.yandex.net/i?id=a4cbc30a98be8703628beaebe0acac5ef28011f7-9989050-images-thumbs&n=13",
+        "id": "social_network",
+        "title": "Social networking",
+        "icon": "/icons/social_network.png",
         "items": [
             {
                 "name": "Facebook",
-                "img": "https://avatars.mds.yandex.net/i?id=a4cbc30a98be8703628beaebe0acac5ef28011f7-9989050-images-thumbs&n=13"
+                "img": "https://avatars.mds.yandex.net/i?id=a4cbc30a98be8703628beaebe0acac5ef28011f7-9989050-images-thumbs&n=13",
+                "link": ""
             },
             {
                 "name": "Instagram",
-                "img": "https://avatars.mds.yandex.net/i?id=a4cbc30a98be8703628beaebe0acac5ef28011f7-9989050-images-thumbs&n=13"
+                "img": "https://avatars.mds.yandex.net/i?id=a4cbc30a98be8703628beaebe0acac5ef28011f7-9989050-images-thumbs&n=13",
+                "link": ""
             },
             {
                 "name": "Tiktok",
-                "img": "https://avatars.mds.yandex.net/i?id=a4cbc30a98be8703628beaebe0acac5ef28011f7-9989050-images-thumbs&n=13"
+                "img": "https://avatars.mds.yandex.net/i?id=a4cbc30a98be8703628beaebe0acac5ef28011f7-9989050-images-thumbs&n=13",
+                "link": ""
             },
             {
                 "name": "Twitter",
-                "img": "https://avatars.mds.yandex.net/i?id=a4cbc30a98be8703628beaebe0acac5ef28011f7-9989050-images-thumbs&n=13"
+                "img": "https://avatars.mds.yandex.net/i?id=a4cbc30a98be8703628beaebe0acac5ef28011f7-9989050-images-thumbs&n=13",
+                "link": ""
             },
             {
                 "name": "Snapchat",
-                "img": "https://avatars.mds.yandex.net/i?id=a4cbc30a98be8703628beaebe0acac5ef28011f7-9989050-images-thumbs&n=13"
+                "img": "https://avatars.mds.yandex.net/i?id=a4cbc30a98be8703628beaebe0acac5ef28011f7-9989050-images-thumbs&n=13",
+                "link": ""
             },
             {
                 "name": "Tiktok",
-                "img": "https://avatars.mds.yandex.net/i?id=a4cbc30a98be8703628beaebe0acac5ef28011f7-9989050-images-thumbs&n=13"
+                "img": "https://avatars.mds.yandex.net/i?id=a4cbc30a98be8703628beaebe0acac5ef28011f7-9989050-images-thumbs&n=13",
+                "link": ""
             }
         ],
         "color": "blue"
     },
     {
-        "id": "search_engine_id",
-        "title": "Nghe Nhạc - BXH Âm Nhạc",
-        "icon": "https://avatars.mds.yandex.net/i?id=a4cbc30a98be8703628beaebe0acac5ef28011f7-9989050-images-thumbs&n=13",
+        "id": "search_engine",
+        "title": "Search engine",
+        "icon": "/icons/search.png",
         "items": [
             {
-                "name": "Facebook",
-                "img": "https://avatars.mds.yandex.net/i?id=a4cbc30a98be8703628beaebe0acac5ef28011f7-9989050-images-thumbs&n=13"
+                "name": "Google",
+                "img": "https://lh3.googleusercontent.com/pw/AP1GczO22O1jLBihuYYrBt7I-odDK0LNUV1RP0mrvYS4HsrTH5Ec0DgUCXJjwJCKbr74_ID2jJ5La-wB6MTbmBi243kHbhm4BJ_GX4TSIkFlXgyLJ48_ikHUQ0FV8hp4QKk2uYC7qlTbgCJM5W3wVqzuSVkV=w512-h512-s-no-gm?authuser=0",
+                "link": "https://www.google.com.vn/"
             },
             {
-                "name": "Facebook",
-                "img": "https://avatars.mds.yandex.net/i?id=a4cbc30a98be8703628beaebe0acac5ef28011f7-9989050-images-thumbs&n=13"
+                "name": "Bing",
+                "img": "https://lh3.googleusercontent.com/pw/AP1GczOFSBIF4hAEO2DmvFum3ClqTd7fxT82_dvHlWhjFbzakhu1igDEZEQ7NHYzpPARIkCea9oB_josdTtK510bYMdGvE-CNjPVzdGwxY_T-jmeTDJDplG_oniQTb2jfvL2xwWkclY9BS9COvu1S2OtJRrd=w512-h512-s-no-gm?authuser=0",
+                "link": "https://www.bing.com/"
             },
             {
-                "name": "Facebook",
-                "img": "https://avatars.mds.yandex.net/i?id=a4cbc30a98be8703628beaebe0acac5ef28011f7-9989050-images-thumbs&n=13"
+                "name": "Yahoo!",
+                "img": "https://avatars.mds.yandex.net/i?id=a4cbc30a98be8703628beaebe0acac5ef28011f7-9989050-images-thumbs&n=13",
+                "link": ""
+            },
+            {
+                "name": "Baidu",
+                "img": "https://lh3.googleusercontent.com/pw/AP1GczOFSBIF4hAEO2DmvFum3ClqTd7fxT82_dvHlWhjFbzakhu1igDEZEQ7NHYzpPARIkCea9oB_josdTtK510bYMdGvE-CNjPVzdGwxY_T-jmeTDJDplG_oniQTb2jfvL2xwWkclY9BS9COvu1S2OtJRrd=w512-h512-s-no-gm?authuser=0",
+                "link": "https://www.bing.com/"
+            },
+            {
+                "name": "Yandex",
+                "img": "https://lh3.googleusercontent.com/pw/AP1GczMw4pWvyecvHgyA59DXTlCxgXjJaIVqqYk26aW0xJOUAna8wQEyJhtOMlp8lWX85vfVN4cN_xEYtw-rUCudbTzeMtSW4W-bpmgTE-oXl_n8YUYA_svBib4jLIEEOlyLvrJKq8BFkFP6mIo8sFv3_e1B=w512-h512-s-no-gm?authuser=0",
+                "link": "https://yandex.com/"
+            },
+            {
+                "name": "DuckDuckGo",
+                "img": "hhttps://lh3.googleusercontent.com/pw/AP1GczOkl3qH3iKO_fTNNC2wgy-hnR8vrO-nkrOMYo0zTXQJoHT82HTlyrGxVwxTztGqM-gGtp4Q0Baolr68dQxH2AyzoshGeGhOgHrm1M4YceJAQIxsHEPd7kWwEPa2I0kSc2FkVu88-hgcoQei63tV1uPo=w512-h512-s-no-gm?authuser=0",
+                "link": "https://duckduckgo.com/"
+            },
+            {
+                "name": "Ask.com",
+                "img": "https://lh3.googleusercontent.com/pw/AP1GczMw4pWvyecvHgyA59DXTlCxgXjJaIVqqYk26aW0xJOUAna8wQEyJhtOMlp8lWX85vfVN4cN_xEYtw-rUCudbTzeMtSW4W-bpmgTE-oXl_n8YUYA_svBib4jLIEEOlyLvrJKq8BFkFP6mIo8sFv3_e1B=w512-h512-s-no-gm?authuser=0",
+                "link": ""
+            },
+            {
+                "name": "Aol.com",
+                "img": "hhttps://lh3.googleusercontent.com/pw/AP1GczOkl3qH3iKO_fTNNC2wgy-hnR8vrO-nkrOMYo0zTXQJoHT82HTlyrGxVwxTztGqM-gGtp4Q0Baolr68dQxH2AyzoshGeGhOgHrm1M4YceJAQIxsHEPd7kWwEPa2I0kSc2FkVu88-hgcoQei63tV1uPo=w512-h512-s-no-gm?authuser=0",
+                "link": ""
+            },
+            {
+                "name": "Lycos",
+                "img": "https://lh3.googleusercontent.com/pw/AP1GczMw4pWvyecvHgyA59DXTlCxgXjJaIVqqYk26aW0xJOUAna8wQEyJhtOMlp8lWX85vfVN4cN_xEYtw-rUCudbTzeMtSW4W-bpmgTE-oXl_n8YUYA_svBib4jLIEEOlyLvrJKq8BFkFP6mIo8sFv3_e1B=w512-h512-s-no-gm?authuser=0",
+                "link": ""
+            },
+            {
+                "name": "Wolframalpha.com",
+                "img": "https://lh3.googleusercontent.com/pw/AP1GczMw4pWvyecvHgyA59DXTlCxgXjJaIVqqYk26aW0xJOUAna8wQEyJhtOMlp8lWX85vfVN4cN_xEYtw-rUCudbTzeMtSW4W-bpmgTE-oXl_n8YUYA_svBib4jLIEEOlyLvrJKq8BFkFP6mIo8sFv3_e1B=w512-h512-s-no-gm?authuser=0",
+                "link": ""
+            }
+        ],
+        "color": "green"
+    },
+    {
+        "id": "browser",
+        "title": "Browser",
+        "icon": "/icons/browser.png",
+        "items": [
+            {
+                "name": "Google",
+                "img": "https://lh3.googleusercontent.com/pw/AP1GczO22O1jLBihuYYrBt7I-odDK0LNUV1RP0mrvYS4HsrTH5Ec0DgUCXJjwJCKbr74_ID2jJ5La-wB6MTbmBi243kHbhm4BJ_GX4TSIkFlXgyLJ48_ikHUQ0FV8hp4QKk2uYC7qlTbgCJM5W3wVqzuSVkV=w512-h512-s-no-gm?authuser=0",
+                "link": "https://www.google.com.vn/"
+            },
+            {
+                "name": "Bing",
+                "img": "https://lh3.googleusercontent.com/pw/AP1GczOFSBIF4hAEO2DmvFum3ClqTd7fxT82_dvHlWhjFbzakhu1igDEZEQ7NHYzpPARIkCea9oB_josdTtK510bYMdGvE-CNjPVzdGwxY_T-jmeTDJDplG_oniQTb2jfvL2xwWkclY9BS9COvu1S2OtJRrd=w512-h512-s-no-gm?authuser=0",
+                "link": "https://www.bing.com/"
+            },
+            {
+                "name": "Yahoo!",
+                "img": "https://avatars.mds.yandex.net/i?id=a4cbc30a98be8703628beaebe0acac5ef28011f7-9989050-images-thumbs&n=13",
+                "link": ""
+            },
+            {
+                "name": "Baidu",
+                "img": "https://lh3.googleusercontent.com/pw/AP1GczOFSBIF4hAEO2DmvFum3ClqTd7fxT82_dvHlWhjFbzakhu1igDEZEQ7NHYzpPARIkCea9oB_josdTtK510bYMdGvE-CNjPVzdGwxY_T-jmeTDJDplG_oniQTb2jfvL2xwWkclY9BS9COvu1S2OtJRrd=w512-h512-s-no-gm?authuser=0",
+                "link": "https://www.bing.com/"
+            },
+            {
+                "name": "Yandex",
+                "img": "https://lh3.googleusercontent.com/pw/AP1GczMw4pWvyecvHgyA59DXTlCxgXjJaIVqqYk26aW0xJOUAna8wQEyJhtOMlp8lWX85vfVN4cN_xEYtw-rUCudbTzeMtSW4W-bpmgTE-oXl_n8YUYA_svBib4jLIEEOlyLvrJKq8BFkFP6mIo8sFv3_e1B=w512-h512-s-no-gm?authuser=0",
+                "link": "https://yandex.com/"
+            },
+            {
+                "name": "DuckDuckGo",
+                "img": "hhttps://lh3.googleusercontent.com/pw/AP1GczOkl3qH3iKO_fTNNC2wgy-hnR8vrO-nkrOMYo0zTXQJoHT82HTlyrGxVwxTztGqM-gGtp4Q0Baolr68dQxH2AyzoshGeGhOgHrm1M4YceJAQIxsHEPd7kWwEPa2I0kSc2FkVu88-hgcoQei63tV1uPo=w512-h512-s-no-gm?authuser=0",
+                "link": "https://duckduckgo.com/"
+            },
+            {
+                "name": "Ask.com",
+                "img": "https://lh3.googleusercontent.com/pw/AP1GczMw4pWvyecvHgyA59DXTlCxgXjJaIVqqYk26aW0xJOUAna8wQEyJhtOMlp8lWX85vfVN4cN_xEYtw-rUCudbTzeMtSW4W-bpmgTE-oXl_n8YUYA_svBib4jLIEEOlyLvrJKq8BFkFP6mIo8sFv3_e1B=w512-h512-s-no-gm?authuser=0",
+                "link": ""
+            },
+            {
+                "name": "Aol.com",
+                "img": "hhttps://lh3.googleusercontent.com/pw/AP1GczOkl3qH3iKO_fTNNC2wgy-hnR8vrO-nkrOMYo0zTXQJoHT82HTlyrGxVwxTztGqM-gGtp4Q0Baolr68dQxH2AyzoshGeGhOgHrm1M4YceJAQIxsHEPd7kWwEPa2I0kSc2FkVu88-hgcoQei63tV1uPo=w512-h512-s-no-gm?authuser=0",
+                "link": ""
+            },
+            {
+                "name": "Lycos",
+                "img": "https://lh3.googleusercontent.com/pw/AP1GczMw4pWvyecvHgyA59DXTlCxgXjJaIVqqYk26aW0xJOUAna8wQEyJhtOMlp8lWX85vfVN4cN_xEYtw-rUCudbTzeMtSW4W-bpmgTE-oXl_n8YUYA_svBib4jLIEEOlyLvrJKq8BFkFP6mIo8sFv3_e1B=w512-h512-s-no-gm?authuser=0",
+                "link": ""
+            },
+            {
+                "name": "Wolframalpha.com",
+                "img": "https://lh3.googleusercontent.com/pw/AP1GczMw4pWvyecvHgyA59DXTlCxgXjJaIVqqYk26aW0xJOUAna8wQEyJhtOMlp8lWX85vfVN4cN_xEYtw-rUCudbTzeMtSW4W-bpmgTE-oXl_n8YUYA_svBib4jLIEEOlyLvrJKq8BFkFP6mIo8sFv3_e1B=w512-h512-s-no-gm?authuser=0",
+                "link": ""
+            }
+        ],
+        "color": "green"
+    },
+    {
+        "id": "youtube_download",
+        "title": "Youtube download",
+        "icon": "/icons/music.png",
+        "items": [
+            {
+                "name": "Zing mp3",
+                "img": "https://lh3.googleusercontent.com/pw/ADCreHduJoPaKc3DvyLoLmVCcK_JGZme0awfVkt8WGHc3r6h8qnzDQIgoZpx1_m8naDGNb-Gs7faoKQadTjgc-j29XXbaNoa4JL0R-XBTZv8JTorHwI8aEEIGCP3zBvg_zKpm0clbD-e8Pco008oKbe6x0cZ=w600-h600-s-no?authuser=0",
+                "link": "https://zingmp3.vn/"
+            },
+            {
+                "name": "NCT",
+                "img": "https://lh3.googleusercontent.com/pw/ADCreHc_r6cHFykHbWjmlRhwkn6w3AOVhmwXtTpEGdLo8LbdIrqZ53nEf4JYOwOBORnggpJt1dXmgoy7uyYKWvzie19Bf7UCAenwpThEtPOdXoBVabD7-mZZHv2IiB7HZ-laZjHIwYtLOXCz-TEt-zLd4fFg=w31-h32-s-no?authuser=0",
+                "link": "http://www.nhaccuatui.com/"
+            },
+            {
+                "name": "SoundCloud",
+                "img": "https://avatars.mds.yandex.net/i?id=a4cbc30a98be8703628beaebe0acac5ef28011f7-9989050-images-thumbs&n=13",
+                "link": ""
+            },
+            {
+                "name": "Billboard 100",
+                "img": "https://avatars.mds.yandex.net/i?id=a4cbc30a98be8703628beaebe0acac5ef28011f7-9989050-images-thumbs&n=13",
+                "link": ""
+            },
+            {
+                "name": "Youtube",
+                "img": "https://avatars.mds.yandex.net/i?id=a4cbc30a98be8703628beaebe0acac5ef28011f7-9989050-images-thumbs&n=13",
+                "link": ""
+            }
+        ],
+        "color": "pink"
+    },
+    {
+        "id": "wallpaper",
+        "title": "Wallpaper",
+        "icon": "/icons/browser.png",
+        "items": [
+            {
+                "name": "Google",
+                "img": "https://lh3.googleusercontent.com/pw/AP1GczO22O1jLBihuYYrBt7I-odDK0LNUV1RP0mrvYS4HsrTH5Ec0DgUCXJjwJCKbr74_ID2jJ5La-wB6MTbmBi243kHbhm4BJ_GX4TSIkFlXgyLJ48_ikHUQ0FV8hp4QKk2uYC7qlTbgCJM5W3wVqzuSVkV=w512-h512-s-no-gm?authuser=0",
+                "link": "https://www.google.com.vn/"
+            },
+            {
+                "name": "Bing",
+                "img": "https://lh3.googleusercontent.com/pw/AP1GczOFSBIF4hAEO2DmvFum3ClqTd7fxT82_dvHlWhjFbzakhu1igDEZEQ7NHYzpPARIkCea9oB_josdTtK510bYMdGvE-CNjPVzdGwxY_T-jmeTDJDplG_oniQTb2jfvL2xwWkclY9BS9COvu1S2OtJRrd=w512-h512-s-no-gm?authuser=0",
+                "link": "https://www.bing.com/"
+            },
+            {
+                "name": "Yahoo!",
+                "img": "https://avatars.mds.yandex.net/i?id=a4cbc30a98be8703628beaebe0acac5ef28011f7-9989050-images-thumbs&n=13",
+                "link": ""
+            },
+            {
+                "name": "Baidu",
+                "img": "https://lh3.googleusercontent.com/pw/AP1GczOFSBIF4hAEO2DmvFum3ClqTd7fxT82_dvHlWhjFbzakhu1igDEZEQ7NHYzpPARIkCea9oB_josdTtK510bYMdGvE-CNjPVzdGwxY_T-jmeTDJDplG_oniQTb2jfvL2xwWkclY9BS9COvu1S2OtJRrd=w512-h512-s-no-gm?authuser=0",
+                "link": "https://www.bing.com/"
+            },
+            {
+                "name": "Yandex",
+                "img": "https://lh3.googleusercontent.com/pw/AP1GczMw4pWvyecvHgyA59DXTlCxgXjJaIVqqYk26aW0xJOUAna8wQEyJhtOMlp8lWX85vfVN4cN_xEYtw-rUCudbTzeMtSW4W-bpmgTE-oXl_n8YUYA_svBib4jLIEEOlyLvrJKq8BFkFP6mIo8sFv3_e1B=w512-h512-s-no-gm?authuser=0",
+                "link": "https://yandex.com/"
+            },
+            {
+                "name": "DuckDuckGo",
+                "img": "hhttps://lh3.googleusercontent.com/pw/AP1GczOkl3qH3iKO_fTNNC2wgy-hnR8vrO-nkrOMYo0zTXQJoHT82HTlyrGxVwxTztGqM-gGtp4Q0Baolr68dQxH2AyzoshGeGhOgHrm1M4YceJAQIxsHEPd7kWwEPa2I0kSc2FkVu88-hgcoQei63tV1uPo=w512-h512-s-no-gm?authuser=0",
+                "link": "https://duckduckgo.com/"
+            },
+            {
+                "name": "Ask.com",
+                "img": "https://lh3.googleusercontent.com/pw/AP1GczMw4pWvyecvHgyA59DXTlCxgXjJaIVqqYk26aW0xJOUAna8wQEyJhtOMlp8lWX85vfVN4cN_xEYtw-rUCudbTzeMtSW4W-bpmgTE-oXl_n8YUYA_svBib4jLIEEOlyLvrJKq8BFkFP6mIo8sFv3_e1B=w512-h512-s-no-gm?authuser=0",
+                "link": ""
+            },
+            {
+                "name": "Aol.com",
+                "img": "hhttps://lh3.googleusercontent.com/pw/AP1GczOkl3qH3iKO_fTNNC2wgy-hnR8vrO-nkrOMYo0zTXQJoHT82HTlyrGxVwxTztGqM-gGtp4Q0Baolr68dQxH2AyzoshGeGhOgHrm1M4YceJAQIxsHEPd7kWwEPa2I0kSc2FkVu88-hgcoQei63tV1uPo=w512-h512-s-no-gm?authuser=0",
+                "link": ""
+            },
+            {
+                "name": "Lycos",
+                "img": "https://lh3.googleusercontent.com/pw/AP1GczMw4pWvyecvHgyA59DXTlCxgXjJaIVqqYk26aW0xJOUAna8wQEyJhtOMlp8lWX85vfVN4cN_xEYtw-rUCudbTzeMtSW4W-bpmgTE-oXl_n8YUYA_svBib4jLIEEOlyLvrJKq8BFkFP6mIo8sFv3_e1B=w512-h512-s-no-gm?authuser=0",
+                "link": ""
+            },
+            {
+                "name": "Wolframalpha.com",
+                "img": "https://lh3.googleusercontent.com/pw/AP1GczMw4pWvyecvHgyA59DXTlCxgXjJaIVqqYk26aW0xJOUAna8wQEyJhtOMlp8lWX85vfVN4cN_xEYtw-rUCudbTzeMtSW4W-bpmgTE-oXl_n8YUYA_svBib4jLIEEOlyLvrJKq8BFkFP6mIo8sFv3_e1B=w512-h512-s-no-gm?authuser=0",
+                "link": ""
             }
         ],
         "color": "green"

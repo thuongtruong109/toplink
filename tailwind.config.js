@@ -28,6 +28,9 @@ module.exports = {
       pattern: /border-(blue|green|indigo|pink|orange|rose|purple)-100/,
     },
     {
+      pattern: /text-(blue|green|indigo|pink|orange|rose|purple)-400/,
+    },
+    {
       pattern: /ring-(blue|green|indigo|pink|orange|rose|purple)-300/,
       variants: ['group-hover'],
     },

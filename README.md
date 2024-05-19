@@ -46,4 +46,6 @@ npm build
 npm start
 ```
 
-<!-- https://www.xemm.me/ -->
+<!-- idea: https://www.xemm.me/ -->
+<!-- tab: https://www.material-tailwind.com/docs/html/gallery -->
+<!-- grid masonry: https://dev.to/kdrbek/responsive-masonry-layout-with-tailwindcss-in-2-steps-4kkj -->

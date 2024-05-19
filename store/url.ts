@@ -3,15 +3,15 @@ import jsonData from '~/data/url.json';
 import type { IUrl } from '~/types';
 
 interface CounterState {
-  urls: IUrl
+  urls: IUrl[]
 }
 
 export const useUrl = defineStore('url', {
   state: (): CounterState => ({
-    urls: jsonData as unknown as IUrl
+    urls: jsonData as unknown as IUrl[]
   }),
   getters: {
-    getAllUrls(state): IUrl {
+    getAllUrls(state): IUrl[] {
         return state.urls
     }
   },
