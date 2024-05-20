@@ -47,15 +47,13 @@
                 </template>
                 Copy url to share
             </NTooltip>
-            <!-- <div class="cursor-pointer absolute top-1 right-1 border border-slate-100 hover:bg-white rounded-md p-0.5">
-                <IconsTick v-if="isCopying" />
-                <IconsUrl v-else @click="onCopyUrl(url.id)" />
-            </div> -->
         </div>
         <div class="flex flex-wrap w-full mt-3">
-            <ul v-for="(item, i) in url.items" :key="i" class="group text-xs cursor-pointer mr-5 mb-2 last:mr-0" @click="onNavigate(item.link)">
+            <ul v-for="(item, i) in url.items" :key="i" class="group text-xs cursor-pointer mr-5 mb-2 last:mr-0 max-w-16" @click="onNavigate(item.link)">
                 <li class="flex flex-col items-center space-y-1.5">
-                    <img :src="item.img" :alt="item.name" width="40" height="40" :class="`rounded-full h-10 w-10 group-hover:shadow-md ${colorStyle(url.color).img} group-hover:ring-[2px] ease-linear duration-200`" />
+                    <figure :class="`rounded-full h-10 w-10 group-hover:shadow-md bg-white overflow-hidden border ${colorStyle(url.color).img} group-hover:ring-[2px] ease-linear duration-200`">
+                        <img :src="item.img" :alt="item.name" width="40" height="40" class="w-full h-full" />
+                    </figure>
                     <span :class="`${colorStyle(url.color).name} ease-linear duration-200`">{{ item.name }}</span>
                 </li>
             </ul>
