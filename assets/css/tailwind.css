@@ -2,10 +2,14 @@
 @tailwind components;
 @tailwind utilities;
 
+ul, li {
+  list-style: none;
+}
+
 @layer utilities {
   .masonry {
     column-gap: 1em;
-    column-count: 2;
+    column-count: 1;
   }
   .masonry-sm {
     column-gap: 1em;
