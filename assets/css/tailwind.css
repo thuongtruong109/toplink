@@ -1,22 +1,26 @@
-@import url('https://fonts.googleapis.com/css2?family=Rubik+Moonrocks&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Rubik+Moonrocks&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Wet+Paint&display=swap');
 
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
 
 @layer base {
   ul, li {
     list-style: none;
   }
 
-  .rubik_font {
+  /* .rubik_font {
     font-family: "Rubik Moonrocks", sans-serif;
     font-weight: 400;
     font-style: normal;
+  } */
+
+  .rubik_wet_font {
+    font-family: "Rubik Wet Paint", system-ui;
+    font-weight: 400;
+    font-style: normal;
   }
-
-
 }
 
 @layer utilities {

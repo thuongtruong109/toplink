@@ -57,7 +57,7 @@
 <template>
     <li :class="`break-inside group/card h-fit border-2 p-2 rounded-xl mb-4 ${colorStyle(url.color).bg}`">
         <div :class="`text-base font-medium border rounded-md px-2 py-1 flex justify-between items-center ${colorStyle(url.color).title}`">
-            <div class="flex items-center space-x-1">
+            <div class="flex items-center space-x-1 rubik_wet_font !font-thin">
                 <img :src="url.icon" :alt="`${url.title} icon`" width="16" height="16" class="w-4 h-4" />
                 <h3>{{ url.title }}</h3>
             </div>
@@ -84,7 +84,7 @@
         </div>
         <div class="flex flex-wrap w-full mt-3">
             <ul v-for="(item, i) in url.items" :key="i" class="group text-xs cursor-pointer mr-5 mb-2 last:mr-0 max-w-16" @click="onNavigate(item.link)">
-                <li class="flex flex-col items-center space-y-1.5">
+                <li class="flex flex-col items-center space-y-1.5 w-full">
                     <figure :class="`rounded-full h-10 w-10 group-hover:shadow-md bg-white overflow-hidden border ${colorStyle(url.color).img} group-hover:ring-[2px] ease-linear duration-200`">
                         <img :src="item.img" :alt="item.name" width="40" height="40" class="w-full h-full" />
                     </figure>
