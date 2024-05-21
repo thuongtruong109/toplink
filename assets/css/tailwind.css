@@ -1,9 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Moonrocks&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-ul, li {
-  list-style: none;
+
+@layer base {
+  ul, li {
+    list-style: none;
+  }
+
+  .rubik_font {
+    font-family: "Rubik Moonrocks", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+
 }
 
 @layer utilities {

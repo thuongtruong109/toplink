@@ -1,5 +1,5 @@
 <script setup lang="ts">
-    import type { IUrl } from '~/types';
+    import type { IUrl, IUrlItem } from '~/types';
 
     defineProps<{
         url: IUrl
@@ -12,6 +12,29 @@
             img: `group-hover:ring-${color}-300`,
             name: `group-hover:text-${color}-500`,
         }
+    }
+
+    const isExported = ref<boolean>(false);
+    const onExporting = async (content: IUrl) => {
+        let data: string = ""
+
+        await content.items.forEach((item: IUrlItem, idx: number) => {
+            data += `${item.name}: ${item.link}`
+            if (idx < (content.items.length -1)) {
+                data += ", "
+            }
+        })
+
+        let a = document.createElement('a');
+        let blob = new Blob([JSON.stringify(data)], {'type': 'text/plain'});
+        a.href = window.URL.createObjectURL(blob);
+        a.download = `${content.title}.txt`
+        a.click();
+
+        isExported.value = true
+        setTimeout(() => {
+            isExported.value = false
+        }, 1000)
     }
 
     const isCopying = ref<boolean>(false)
@@ -32,21 +55,32 @@
 </script>
 
 <template>
-    <li :class="`break-inside h-fit border-2 p-2 rounded-xl mb-4 ${colorStyle(url.color).bg}`">
+    <li :class="`break-inside group/card h-fit border-2 p-2 rounded-xl mb-4 ${colorStyle(url.color).bg}`">
         <div :class="`text-base font-medium border rounded-md px-2 py-1 flex justify-between items-center ${colorStyle(url.color).title}`">
             <div class="flex items-center space-x-1">
                 <img :src="url.icon" :alt="`${url.title} icon`" width="16" height="16" class="w-4 h-4" />
                 <h3>{{ url.title }}</h3>
             </div>
-            <NTooltip class="cursor-pointer bg-black text-white whitespace-nowrap px-1 rounded">
-                <template #trigger>
-                    <NButton class="border border-slate-100 hover:bg-white rounded-md p-0.5">
-                        <IconsTick v-if="isCopying" />
-                        <IconsUrl v-else @click="onCopyUrl(url.id)" />
-                    </NButton>
-                </template>
-                Copy url to share
-            </NTooltip>
+            <div class="flex md:hidden md:group-hover/card:flex items-center space-x-1.5 ml-2">
+                <NTooltip class="cursor-pointer bg-black text-white whitespace-nowrap px-1 rounded">
+                    <template #trigger>
+                        <NButton class="border border-slate-100 hover:bg-white rounded-md p-0.5">
+                            <IconsTick v-if="isExported" />
+                            <IconsDownload v-else @click="onExporting(url)" />
+                        </NButton>
+                    </template>
+                    Export data
+                </NTooltip>
+                <NTooltip class="cursor-pointer bg-black text-white whitespace-nowrap px-1 rounded">
+                    <template #trigger>
+                        <NButton class="border border-slate-100 hover:bg-white rounded-md p-0.5">
+                            <IconsTick v-if="isCopying" />
+                            <IconsUrl v-else @click="onCopyUrl(url.id)" />
+                        </NButton>
+                    </template>
+                    {{ isCopying ? 'Copied' : 'Copy url to share' }}
+                </NTooltip>
+            </div>
         </div>
         <div class="flex flex-wrap w-full mt-3">
             <ul v-for="(item, i) in url.items" :key="i" class="group text-xs cursor-pointer mr-5 mb-2 last:mr-0 max-w-16" @click="onNavigate(item.link)">

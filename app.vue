@@ -3,6 +3,9 @@ import { InitApp } from '~/utils/initApp'
 
 InitApp()
 const locale = useState<string>('locale.i18n')
+
+// <link rel="preconnect" href="https://fonts.googleapis.com">
+// <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 </script>
 
 <template>
