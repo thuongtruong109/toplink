@@ -40,33 +40,33 @@
         "items": [
             {
                 "name": "Facebook",
-                "img": "https://lh3.googleusercontent.com/pw/AP1GczOkMCt1FtCh-5ZHMH83nxyVISwt0zFuLPM4bNVFDYURBYoRs47xAoPF2lizOQCv1r0oejvFdj34BDk4U4D4TE3BXK6IJNBLkEtY2Xn1gpanHdzawIhA5a0spzjFpmgsjlJfbXC-hNHiK-0R0RrUgPDr=w512-h512-s-no-gm?authuser=0",
+                "img": "https://static.xx.fbcdn.net/rsrc.php/yT/r/aGT3gskzWBf.ico",
                 "link": "https://www.facebook.com/"
             },
             {
                 "name": "Instagram",
-                "img": "https://avatars.mds.yandex.net/i?id=a4cbc30a98be8703628beaebe0acac5ef28011f7-9989050-images-thumbs&n=13",
-                "link": ""
+                "img": "https://static.cdninstagram.com/rsrc.php/v3/yI/r/VsNE-OHk_8a.png",
+                "link": "https://www.instagram.com/"
             },
             {
                 "name": "Tiktok",
-                "img": "https://avatars.mds.yandex.net/i?id=a4cbc30a98be8703628beaebe0acac5ef28011f7-9989050-images-thumbs&n=13",
-                "link": ""
+                "img": "https://www.tiktok.com/favicon.ico",
+                "link": "https://www.tiktok.com/"
             },
             {
                 "name": "Twitter",
-                "img": "https://avatars.mds.yandex.net/i?id=a4cbc30a98be8703628beaebe0acac5ef28011f7-9989050-images-thumbs&n=13",
-                "link": ""
+                "img": "https://abs.twimg.com/favicons/twitter-pip.3.ico",
+                "link": "https://x.com/"
             },
             {
                 "name": "Snapchat",
-                "img": "https://avatars.mds.yandex.net/i?id=a4cbc30a98be8703628beaebe0acac5ef28011f7-9989050-images-thumbs&n=13",
-                "link": ""
+                "img": "https://static.snapchat.com/favicon.ico",
+                "link": "https://snapchat.com/"
             },
             {
-                "name": "Tiktok",
-                "img": "https://avatars.mds.yandex.net/i?id=a4cbc30a98be8703628beaebe0acac5ef28011f7-9989050-images-thumbs&n=13",
-                "link": ""
+                "name": "LinkedIn",
+                "img": "https://static.licdn.com/aero-v1/sc/h/5bukxbhy9xsil5mb7c2wulfbx",
+                "link": "https://www.linkedin.com/"
             }
         ]
     },
@@ -88,43 +88,43 @@
             },
             {
                 "name": "Yahoo!",
-                "img": "https://avatars.mds.yandex.net/i?id=a4cbc30a98be8703628beaebe0acac5ef28011f7-9989050-images-thumbs&n=13",
-                "link": ""
+                "img": "https://s.yimg.com/rz/l/favicon.ico",
+                "link": "https://www.yahoo.com/"
             },
             {
                 "name": "Baidu",
-                "img": "https://lh3.googleusercontent.com/pw/AP1GczOFSBIF4hAEO2DmvFum3ClqTd7fxT82_dvHlWhjFbzakhu1igDEZEQ7NHYzpPARIkCea9oB_josdTtK510bYMdGvE-CNjPVzdGwxY_T-jmeTDJDplG_oniQTb2jfvL2xwWkclY9BS9COvu1S2OtJRrd=w512-h512-s-no-gm?authuser=0",
-                "link": "https://www.bing.com/"
+                "img": "https://www.baidu.com/favicon.ico",
+                "link": "https://www.baidu.com/"
             },
             {
                 "name": "Yandex",
                 "img": "https://lh3.googleusercontent.com/pw/AP1GczMw4pWvyecvHgyA59DXTlCxgXjJaIVqqYk26aW0xJOUAna8wQEyJhtOMlp8lWX85vfVN4cN_xEYtw-rUCudbTzeMtSW4W-bpmgTE-oXl_n8YUYA_svBib4jLIEEOlyLvrJKq8BFkFP6mIo8sFv3_e1B=w512-h512-s-no-gm?authuser=0",
-                "link": "https://yandex.com/"
+                "link": "https://yastatic.net/s3/home-static/_/nova/3c8b3263.png"
             },
             {
                 "name": "DuckDuckGo",
-                "img": "hhttps://lh3.googleusercontent.com/pw/AP1GczOkl3qH3iKO_fTNNC2wgy-hnR8vrO-nkrOMYo0zTXQJoHT82HTlyrGxVwxTztGqM-gGtp4Q0Baolr68dQxH2AyzoshGeGhOgHrm1M4YceJAQIxsHEPd7kWwEPa2I0kSc2FkVu88-hgcoQei63tV1uPo=w512-h512-s-no-gm?authuser=0",
+                "img": "https://lh3.googleusercontent.com/pw/AP1GczOkl3qH3iKO_fTNNC2wgy-hnR8vrO-nkrOMYo0zTXQJoHT82HTlyrGxVwxTztGqM-gGtp4Q0Baolr68dQxH2AyzoshGeGhOgHrm1M4YceJAQIxsHEPd7kWwEPa2I0kSc2FkVu88-hgcoQei63tV1uPo=w512-h512-s-no-gm?authuser=0",
                 "link": "https://duckduckgo.com/"
             },
             {
                 "name": "Ask.com",
-                "img": "https://lh3.googleusercontent.com/pw/AP1GczMw4pWvyecvHgyA59DXTlCxgXjJaIVqqYk26aW0xJOUAna8wQEyJhtOMlp8lWX85vfVN4cN_xEYtw-rUCudbTzeMtSW4W-bpmgTE-oXl_n8YUYA_svBib4jLIEEOlyLvrJKq8BFkFP6mIo8sFv3_e1B=w512-h512-s-no-gm?authuser=0",
-                "link": ""
+                "img": "https://www.ask.com/wp-content/uploads/sites/3/2021/10/cropped-ask-favicon-1.png?w=32",
+                "link": "https://www.ask.com/"
             },
             {
                 "name": "Aol.com",
-                "img": "hhttps://lh3.googleusercontent.com/pw/AP1GczOkl3qH3iKO_fTNNC2wgy-hnR8vrO-nkrOMYo0zTXQJoHT82HTlyrGxVwxTztGqM-gGtp4Q0Baolr68dQxH2AyzoshGeGhOgHrm1M4YceJAQIxsHEPd7kWwEPa2I0kSc2FkVu88-hgcoQei63tV1uPo=w512-h512-s-no-gm?authuser=0",
-                "link": ""
+                "img": "https://s.yimg.com/cv/apiv2/aolfp/images/favicon/favicon-32x32.png",
+                "link": "https://www.aol.com/"
             },
             {
                 "name": "Lycos",
-                "img": "https://lh3.googleusercontent.com/pw/AP1GczMw4pWvyecvHgyA59DXTlCxgXjJaIVqqYk26aW0xJOUAna8wQEyJhtOMlp8lWX85vfVN4cN_xEYtw-rUCudbTzeMtSW4W-bpmgTE-oXl_n8YUYA_svBib4jLIEEOlyLvrJKq8BFkFP6mIo8sFv3_e1B=w512-h512-s-no-gm?authuser=0",
-                "link": ""
+                "img": "https://ly.lygo.net/static/lycos/img/favicon.ico",
+                "link": "https://www.lycos.com/"
             },
             {
                 "name": "Wolframalpha.com",
-                "img": "https://lh3.googleusercontent.com/pw/AP1GczMw4pWvyecvHgyA59DXTlCxgXjJaIVqqYk26aW0xJOUAna8wQEyJhtOMlp8lWX85vfVN4cN_xEYtw-rUCudbTzeMtSW4W-bpmgTE-oXl_n8YUYA_svBib4jLIEEOlyLvrJKq8BFkFP6mIo8sFv3_e1B=w512-h512-s-no-gm?authuser=0",
-                "link": ""
+                "img": "https://www.wolframalpha.com/_next/static/images/favicon_1zbE9hjk.ico",
+                "link": "https://www.wolframalpha.com/"
             }
         ]
     },

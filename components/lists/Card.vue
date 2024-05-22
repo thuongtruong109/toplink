@@ -1,5 +1,6 @@
 <script setup lang="ts">
     import type { IUrl, IUrlItem } from '~/types';
+    import domtoimage from 'dom-to-image'
 
     defineProps<{
         url: IUrl
@@ -13,6 +14,29 @@
             name: `group-hover:text-${color}-500`,
         }
     }
+
+    const isScreenshot = ref<boolean>(false)
+    const onScreenshot = (id: string) => {
+        var node = document.getElementById(id) as HTMLElement
+
+        domtoimage.toPng(node)
+            .then(function (dataUrl) {
+                var img = new Image();
+                img.src = dataUrl;
+                document.body.appendChild(img);
+            })
+            .catch(function (error) {
+                console.error('oops, something went wrong!', error);
+            });
+
+            // DomToImage.toJpeg(node, { quality: 1 }).then((dataUrl) => {
+            //     var link = document.createElement('a');
+            //     link.download = 'my-image-name.jpeg';
+            //     link.href = dataUrl;
+            //     link.click();
+            // });
+    }
+
 
     const isExported = ref<boolean>(false);
     const onExporting = async (content: IUrl) => {
@@ -55,13 +79,22 @@
 </script>
 
 <template>
-    <li :class="`break-inside group/card h-fit border-2 p-2 rounded-xl mb-4 ${colorStyle(url.color).bg}`">
+    <li :class="`break-inside group/card h-fit border-2 p-2 rounded-xl mb-4 ${colorStyle(url.color).bg}`" :id="url.id">
         <div :class="`text-base font-medium border rounded-md px-2 py-1 flex justify-between items-center ${colorStyle(url.color).title}`">
-            <div class="flex items-center space-x-1 rubik_wet_font !font-thin">
+            <div class="flex items-center space-x-1 rubik_wet_font whitespace-nowrap overflow-hidden max-w-[calc(100%-82px)]">
                 <img :src="url.icon" :alt="`${url.title} icon`" width="16" height="16" class="w-4 h-4" />
                 <h3>{{ url.title }}</h3>
             </div>
             <div class="flex md:hidden md:group-hover/card:flex items-center space-x-1.5 ml-2">
+                <!-- <NTooltip class="cursor-pointer bg-black text-white whitespace-nowrap px-1 rounded">
+                    <template #trigger>
+                        <NButton class="border border-slate-100 hover:bg-white rounded-md p-0.5">
+                            <IconsTick v-if="isScreenshot" />
+                            <IconsScreenshot v-else @click="onScreenshot(url.id)" />
+                        </NButton>
+                    </template>
+                    Take screenshot
+                </NTooltip> -->
                 <NTooltip class="cursor-pointer bg-black text-white whitespace-nowrap px-1 rounded">
                     <template #trigger>
                         <NButton class="border border-slate-100 hover:bg-white rounded-md p-0.5">

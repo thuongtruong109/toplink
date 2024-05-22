@@ -37,7 +37,7 @@ const availableColor = ref([
         <div
           class="flex h-9 w-9 items-center justify-center rounded-lg bg-green-500/10 md:bg-transparent md:hover:bg-green-500/10 dark:bg-gray-700"
         >
-          <UnoIcon class="i-ph-palette-duotone text-lg dark:text-white" />
+          <IconsTheme />
         </div>
       </ListboxButton>
       <ListboxOptions
