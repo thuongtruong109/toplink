@@ -6,9 +6,9 @@
 </script>
 
 <template>
-    <section class="masonry sm:masonry-sm md:masonry-md p-2">
-        <ul v-for="url in urlStore.getAllUrls" :key="url.id">
+    <ul class="masonry sm:masonry-sm md:masonry-md p-2">
+        <li v-for="url in urlStore.getAllUrls" :key="url.id">
             <ListsCard :url="url" />
-        </ul>
-    </section>
+        </li>
+    </ul>
 </template>

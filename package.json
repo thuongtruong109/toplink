@@ -23,7 +23,8 @@
     "generate": "nuxi generate",
     "start": "node .output/server/index.mjs",
     "lint": "eslint .",
-    "lint:fix": "eslint . --fix"
+    "lint:fix": "eslint . --fix",
+    "deploy": "gh-pages --dotfiles -d .output/public"
   },
   "overrides": {
     "vue": "latest"
@@ -38,11 +39,11 @@
     "@nuxtjs/color-mode": "^3.4.1",
     "@nuxtjs/tailwindcss": "^6.12.0",
     "@stylistic/eslint-plugin-migrate": "^2.1.0",
-    "@types/dom-to-image": "^2.6.7",
     "@unocss/nuxt": "^0.60.2",
     "@vueuse/nuxt": "^10.9.0",
     "eslint": "^8.57.0",
     "eslint-plugin-vue": "^9.26.0",
+    "gh-pages": "^6.1.1",
     "nuxt": "^3.11.2",
     "sass": "^1.77.2",
     "sass-loader": "^14.2.1",
@@ -54,7 +55,6 @@
     "@nuxtjs/i18n": "^8.3.1",
     "@pinia/nuxt": "^0.5.1",
     "@tailwindcss/aspect-ratio": "^0.4.2",
-    "@tailwindcss/forms": "^0.5.7",
     "@tailwindcss/typography": "^0.5.13",
     "dom-to-image": "^2.6.0",
     "pinia": "^2.1.7"

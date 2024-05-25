@@ -18,24 +18,24 @@ module.exports = {
   ],
   safelist: [
     {
-      pattern: /border-(blue|green|indigo|pink|orange|rose|purple|cyan|yellow)-(200)/,
+      pattern: /border-(blue|green|indigo|pink|orange|red|purple|cyan|yellow|teal)-(200)/,
       variants: ['hover'],
     },
     {
-      pattern: /bg-(blue|green|indigo|pink|orange|rose|purple|cyan|yellow)-50\/50/
+      pattern: /bg-(blue|green|indigo|pink|orange|red|purple|cyan|yellow|teal)-50\/50/
     },
     {
-      pattern: /border-(blue|green|indigo|pink|orange|rose|purple|cyan|yellow)-100/,
+      pattern: /border-(blue|green|indigo|pink|orange|red|purple|cyan|yellow|teal)-100/,
     },
     {
-      pattern: /text-(blue|green|indigo|pink|orange|rose|purple|cyan|yellow)-400/,
+      pattern: /text-(blue|green|indigo|pink|orange|red|purple|cyan|yellow|teal)-400/,
     },
     {
-      pattern: /ring-(blue|green|indigo|pink|orange|rose|purple|cyan|yellow)-300/,
+      pattern: /ring-(blue|green|indigo|pink|orange|red|purple|cyan|yellow|teal)-300/,
       variants: ['group-hover'],
     },
     {
-      pattern: /text-(blue|green|indigo|pink|orange|rose|purple|cyan|yellow)-500/,
+      pattern: /text-(blue|green|indigo|pink|orange|red|purple|cyan|yellow|tea;)-500/,
       variants: ['group-hover'],
     },
   ],
@@ -50,7 +50,6 @@ module.exports = {
     extend: {},
   },
   plugins: [
-    require('@tailwindcss/forms'),
     require('@tailwindcss/typography'),
     require('@tailwindcss/aspect-ratio'),
   ],

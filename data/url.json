@@ -161,7 +161,7 @@
             },
             {
                 "name": "DuckDuckGo",
-                "img": "hhttps://lh3.googleusercontent.com/pw/AP1GczOkl3qH3iKO_fTNNC2wgy-hnR8vrO-nkrOMYo0zTXQJoHT82HTlyrGxVwxTztGqM-gGtp4Q0Baolr68dQxH2AyzoshGeGhOgHrm1M4YceJAQIxsHEPd7kWwEPa2I0kSc2FkVu88-hgcoQei63tV1uPo=w512-h512-s-no-gm?authuser=0",
+                "img": "https://lh3.googleusercontent.com/pw/AP1GczOkl3qH3iKO_fTNNC2wgy-hnR8vrO-nkrOMYo0zTXQJoHT82HTlyrGxVwxTztGqM-gGtp4Q0Baolr68dQxH2AyzoshGeGhOgHrm1M4YceJAQIxsHEPd7kWwEPa2I0kSc2FkVu88-hgcoQei63tV1uPo=w512-h512-s-no-gm?authuser=0",
                 "link": "https://duckduckgo.com/"
             },
             {
@@ -171,7 +171,7 @@
             },
             {
                 "name": "Aol.com",
-                "img": "hhttps://lh3.googleusercontent.com/pw/AP1GczOkl3qH3iKO_fTNNC2wgy-hnR8vrO-nkrOMYo0zTXQJoHT82HTlyrGxVwxTztGqM-gGtp4Q0Baolr68dQxH2AyzoshGeGhOgHrm1M4YceJAQIxsHEPd7kWwEPa2I0kSc2FkVu88-hgcoQei63tV1uPo=w512-h512-s-no-gm?authuser=0",
+                "img": "https://lh3.googleusercontent.com/pw/AP1GczOkl3qH3iKO_fTNNC2wgy-hnR8vrO-nkrOMYo0zTXQJoHT82HTlyrGxVwxTztGqM-gGtp4Q0Baolr68dQxH2AyzoshGeGhOgHrm1M4YceJAQIxsHEPd7kWwEPa2I0kSc2FkVu88-hgcoQei63tV1uPo=w512-h512-s-no-gm?authuser=0",
                 "link": ""
             },
             {
@@ -190,7 +190,7 @@
         "id": "youtube_download",
         "title": "Youtube download",
         "icon": "/icons/youtube_download.png",
-        "color": "rose",
+        "color": "red",
         "items": [
             {
                 "name": "Zing mp3",
@@ -252,7 +252,7 @@
             },
             {
                 "name": "DuckDuckGo",
-                "img": "hhttps://lh3.googleusercontent.com/pw/AP1GczOkl3qH3iKO_fTNNC2wgy-hnR8vrO-nkrOMYo0zTXQJoHT82HTlyrGxVwxTztGqM-gGtp4Q0Baolr68dQxH2AyzoshGeGhOgHrm1M4YceJAQIxsHEPd7kWwEPa2I0kSc2FkVu88-hgcoQei63tV1uPo=w512-h512-s-no-gm?authuser=0",
+                "img": "https://lh3.googleusercontent.com/pw/AP1GczOkl3qH3iKO_fTNNC2wgy-hnR8vrO-nkrOMYo0zTXQJoHT82HTlyrGxVwxTztGqM-gGtp4Q0Baolr68dQxH2AyzoshGeGhOgHrm1M4YceJAQIxsHEPd7kWwEPa2I0kSc2FkVu88-hgcoQei63tV1uPo=w512-h512-s-no-gm?authuser=0",
                 "link": "https://duckduckgo.com/"
             },
             {
@@ -262,7 +262,7 @@
             },
             {
                 "name": "Aol.com",
-                "img": "hhttps://lh3.googleusercontent.com/pw/AP1GczOkl3qH3iKO_fTNNC2wgy-hnR8vrO-nkrOMYo0zTXQJoHT82HTlyrGxVwxTztGqM-gGtp4Q0Baolr68dQxH2AyzoshGeGhOgHrm1M4YceJAQIxsHEPd7kWwEPa2I0kSc2FkVu88-hgcoQei63tV1uPo=w512-h512-s-no-gm?authuser=0",
+                "img": "https://lh3.googleusercontent.com/pw/AP1GczOkl3qH3iKO_fTNNC2wgy-hnR8vrO-nkrOMYo0zTXQJoHT82HTlyrGxVwxTztGqM-gGtp4Q0Baolr68dQxH2AyzoshGeGhOgHrm1M4YceJAQIxsHEPd7kWwEPa2I0kSc2FkVu88-hgcoQei63tV1uPo=w512-h512-s-no-gm?authuser=0",
                 "link": ""
             },
             {
@@ -279,9 +279,9 @@
     },
     {
         "id": "recruitment",
-        "title": "Recruitment & Job",
+        "title": "Recruitment",
         "icon": "/icons/recruitment.png",
-        "color": "rose",
+        "color": "red",
         "items": [
             {
                 "name": "Vietnamworks",
@@ -351,7 +351,7 @@
             {
                 "name": "Hoteljob",
                 "img": "https://lh3.googleusercontent.com/pw/ADCreHfgIcjDuHM8udT8i3nNWdkhBQVb2nlmnfsa2eRHyHpx6XDeDnob5Nujo632kbQ9B_LIhjUHYSqDfNnyEAZ51T-aF2-HN64x5NQGxtQ_pwSUowG4_ShXYdGSkLmU20ZRtjc5D7n2pxfSVehQn8k--IXR=w32-h32-s-no?authuser=0",
-                "link": "hhttps://www.hoteljob.vn/"
+                "link": "https://www.hoteljob.vn/"
             },
             {
                 "name": "Iconicjob",
@@ -434,7 +434,7 @@
             {
                 "name": "Hoteljob",
                 "img": "https://lh3.googleusercontent.com/pw/ADCreHfgIcjDuHM8udT8i3nNWdkhBQVb2nlmnfsa2eRHyHpx6XDeDnob5Nujo632kbQ9B_LIhjUHYSqDfNnyEAZ51T-aF2-HN64x5NQGxtQ_pwSUowG4_ShXYdGSkLmU20ZRtjc5D7n2pxfSVehQn8k--IXR=w32-h32-s-no?authuser=0",
-                "link": "hhttps://www.hoteljob.vn/"
+                "link": "https://www.hoteljob.vn/"
             },
             {
                 "name": "Iconicjob",
@@ -517,7 +517,7 @@
             {
                 "name": "Hoteljob",
                 "img": "https://lh3.googleusercontent.com/pw/ADCreHfgIcjDuHM8udT8i3nNWdkhBQVb2nlmnfsa2eRHyHpx6XDeDnob5Nujo632kbQ9B_LIhjUHYSqDfNnyEAZ51T-aF2-HN64x5NQGxtQ_pwSUowG4_ShXYdGSkLmU20ZRtjc5D7n2pxfSVehQn8k--IXR=w32-h32-s-no?authuser=0",
-                "link": "hhttps://www.hoteljob.vn/"
+                "link": "https://www.hoteljob.vn/"
             },
             {
                 "name": "Iconicjob",
@@ -600,7 +600,7 @@
             {
                 "name": "Hoteljob",
                 "img": "https://lh3.googleusercontent.com/pw/ADCreHfgIcjDuHM8udT8i3nNWdkhBQVb2nlmnfsa2eRHyHpx6XDeDnob5Nujo632kbQ9B_LIhjUHYSqDfNnyEAZ51T-aF2-HN64x5NQGxtQ_pwSUowG4_ShXYdGSkLmU20ZRtjc5D7n2pxfSVehQn8k--IXR=w32-h32-s-no?authuser=0",
-                "link": "hhttps://www.hoteljob.vn/"
+                "link": "https://www.hoteljob.vn/"
             },
             {
                 "name": "Iconicjob",
@@ -683,7 +683,7 @@
             {
                 "name": "Hoteljob",
                 "img": "https://lh3.googleusercontent.com/pw/ADCreHfgIcjDuHM8udT8i3nNWdkhBQVb2nlmnfsa2eRHyHpx6XDeDnob5Nujo632kbQ9B_LIhjUHYSqDfNnyEAZ51T-aF2-HN64x5NQGxtQ_pwSUowG4_ShXYdGSkLmU20ZRtjc5D7n2pxfSVehQn8k--IXR=w32-h32-s-no?authuser=0",
-                "link": "hhttps://www.hoteljob.vn/"
+                "link": "https://www.hoteljob.vn/"
             },
             {
                 "name": "Iconicjob",
@@ -766,7 +766,7 @@
             {
                 "name": "Hoteljob",
                 "img": "https://lh3.googleusercontent.com/pw/ADCreHfgIcjDuHM8udT8i3nNWdkhBQVb2nlmnfsa2eRHyHpx6XDeDnob5Nujo632kbQ9B_LIhjUHYSqDfNnyEAZ51T-aF2-HN64x5NQGxtQ_pwSUowG4_ShXYdGSkLmU20ZRtjc5D7n2pxfSVehQn8k--IXR=w32-h32-s-no?authuser=0",
-                "link": "hhttps://www.hoteljob.vn/"
+                "link": "https://www.hoteljob.vn/"
             },
             {
                 "name": "Iconicjob",
@@ -776,92 +776,9 @@
         ]
     },
     {
-        "id": "idol_kol",
-        "title": "Idols - Kols celeb",
-        "icon": "/icons/football.png",
-        "color": "indigo",
-        "items": [
-            {
-                "name": "Vietnamworks",
-                "img": "https://lh3.googleusercontent.com/pw/ADCreHeZQQPQvS_2OxAZ8hkv4d3kK33OVz6lsWsQYRZkO-m7BM2T3mH4pA0qdGYYPkOxtLt0hF3AVJqsNr4u-ncr_2AmJW37cjRtfSYEu2InI7YH5evW88jcKyydNUsPzgLXnsoSSaxEXF95wg_vEpC34zZr=w256-h256-s-no?authuser=0",
-                "link": "https://www.vietnamworks.com/tim-viec-lam/tim-tat-ca-viec-lam"
-            },
-            {
-                "name": "CarreerBuilder",
-                "img": "https://lh3.googleusercontent.com/pw/ADCreHd_FB8Akm0idMdOLBwDjag6tu9o1Z3eSZK_qxQ99HQ3Xvu0guM0SgAZFQ3stS66KiaKKRpEDgNHfS6TVS0bWujanfP2Qk8cnA6c1LEYqOYDBa_FyzewHButSs7j5AWcIWebalu26vuo9QcIeUHCVOPu=w225-h225-s-no?authuser=0",
-                "link": "https://careerbuilder.vn/"
-            },
-            {
-                "name": "Topdev",
-                "img": "https://lh3.googleusercontent.com/pw/ADCreHemePUOw5I5q4Ayh4o534PreJOL1nm_phvg1oWspPLhAVaPYLhANYzQm7rWG6NdGfX-ZmPK0EFfosQWFF6hDbDV3gPOj4Np-VZUToT2YgQrHex_p5pBWR7a5Y2558aHDmom9aNfSFJ4IHaShQiISpbq=w439-h439-s-no?authuser=0",
-                "link": "https://topdev.vn/"
-            },
-            {
-                "name": "Timviec365",
-                "img": "https://lh3.googleusercontent.com/pw/ADCreHcL3DFEsf9pWhTaKpQXmzFVt8bLSsJm2ExlBPNCHEBgY9UPdmOm84QqnQoAI1X1QrbZSGH5BrHjEkGYjx1kNI0-yTlCQ_ivLgzPq9vqm6KIS_FfjbBrdTpdVrflqB0Mh9mpOehOta0oKGa7Mszurci4=w225-h225-s-no?authuser=0",
-                "link": "https://timviec365.vn/"
-            },
-            {
-                "name": "Việc làm 24h",
-                "img": "https://lh3.googleusercontent.com/pw/ADCreHcHzAn51nd1Zp8bynTJNlSRPXoLQMTJmaHyAxDhHJ2TObUOCQsg4vYwtN_pJcMeFIQdxWDXnrejtpd4tQ80oz1ikVQwSod_q78qTmOgjEHsiGyk1wpHu986chyKH6teeV4GDaeJvM6uGKmgnQImfw7H=w225-h225-s-no?authuser=0",
-                "link": "https://vieclam24h.vn/"
-            },
-            {
-                "name": "Top CV",
-                "img": "https://lh3.googleusercontent.com/pw/ADCreHfVhfFJnEiaAPoYZZju97j4Jo60fYcrgfhDvaH7217LX7MkmHAJE2y44Mgl07mlyviUNgdymAKKfIZqtYT-tkPrCZqlnW48VY08D-wP5vDf-46Sr8r0aIv5kmBvkePoNbOxBArvXN5f9OV96mju71T4=w225-h225-s-no?authuser=0",
-                "link": "https://www.topcv.vn/viec-lam"
-            },
-            {
-                "name": "Jobstreet",
-                "img": "https://lh3.googleusercontent.com/pw/ADCreHeSF_-QjRiP02YuJ6F9vXEhEOX0gkVMsSGUAiwkNrN5HWh13-8qxNbUv63Owl5r42_VYWwSnsZCokagD4aWDDmiKJ6Rk2ktS05K-3IwHrFy8RrbIREgcLcfEJe9l52TKuDBuWsJbC-0lB6GLAIIQt3q=w32-h32-s-no?authuser=0",
-                "link": "https://www.jobstreet.vn/"
-            },
-            {
-                "name": "123job",
-                "img": "https://lh3.googleusercontent.com/pw/ADCreHeztweZpiTF9t8YCHqDpv9wI8t5PJcy4q4_ChCrZJ6JYXh98kHElmQdoBXsNdEU05DLSzd2y4f78YGTxeW_pGlJhbHfGaFYbjmZ7gfuJYf_blvpB17eDwXCbZXpGtJDV8i1vKy90U41dQ80pPBN8qtO=w32-h32-s-no?authuser=0",
-                "link": "https://123job.vn/"
-            },
-            {
-                "name": "Careerlink",
-                "img": "https://lh3.googleusercontent.com/pw/ADCreHfmtQjM76wv_zndKGH9F0n54sETwebOZKFwHgz6fd08U50orXEh7Z2-3TH6biWJU3t3RLL_ezRdLqxpntwnsKn84AS_WpIwYXM3JKJ3eO1dzAs4f4mnO-TCcyfMI0wDdJ-GOKbNPXRXa1fcrW8uYeC0=w32-h32-s-no?authuser=0",
-                "link": "https://www.careerlink.vn/"
-            },
-            {
-                "name": "Jobsgo",
-                "img": "https://lh3.googleusercontent.com/pw/ADCreHdyuzV_yBXr7776VvaSD-L4xB1yvUOV-ITciAYgO01JeVqsvFTD_xbI4XtokDETYlGqU1WNRx52v2-k_VuhRbMUURZVcw5UmnOhtZcdALBSTZsFGsi_JEcMk8QkxnLU1fCbWB52TWG7VlEX4ZlLvzop=w32-h32-s-no?authuser=0",
-                "link": "https://jobsgo.vn/"
-            },
-            {
-                "name": "Mywork",
-                "img": "https://lh3.googleusercontent.com/pw/ADCreHfwbxRceRJhxhAajI1r_6Jx0WawJWeNvgICXPmWm0fyLPfD6dDnylknCnmMZsSTVnYwyES37xH_r2unMgCLa4saxjn-Dbq8pTUob0pA0BWRczOgaTNb-V8Ao4y1Yd_1O0FxKbuj7aogx7o4DNb-zR4t=w160-h160-s-no?authuser=0",
-                "link": "https://mywork.com.vn/"
-            },
-            {
-                "name": "Ybox",
-                "img": "https://lh3.googleusercontent.com/pw/ADCreHcfQC4vrlrqji5vc-q0YBFibb9iNhllaYVKaEQpE6sLPAO34XKsqKkRDecplwVpfGa2LghyZbC36Af9NnB_JdnfW-FBwS6ElQFlVSVup_Wm2whLwGz7UhJeK9pq03T9a4USojyNoh_J4gyE45AN2MEv=w32-h32-s-no?authuser=0",
-                "link": "https://ybox.vn/"
-            },
-            {
-                "name": "Joboko",
-                "img": "https://lh3.googleusercontent.com/pw/ADCreHdMat4_DBcdJ-4ecqBumji4cmDCVMHExjxBzOKHhasaXQ4WPMV84pp6pD2PbKdqUvCwQ0d_rcpTx0R2khpVClGuYHPSQf6DwiNf_XmWri-SVySdRzyNE9jC---0J_MDxuSNXDp1bN-TKOUCJSQ4LsAZ=w439-h220-s-no?authuser=0",
-                "link": "https://vn.joboko.com/"
-            },
-            {
-                "name": "Hoteljob",
-                "img": "https://lh3.googleusercontent.com/pw/ADCreHfgIcjDuHM8udT8i3nNWdkhBQVb2nlmnfsa2eRHyHpx6XDeDnob5Nujo632kbQ9B_LIhjUHYSqDfNnyEAZ51T-aF2-HN64x5NQGxtQ_pwSUowG4_ShXYdGSkLmU20ZRtjc5D7n2pxfSVehQn8k--IXR=w32-h32-s-no?authuser=0",
-                "link": "hhttps://www.hoteljob.vn/"
-            },
-            {
-                "name": "Iconicjob",
-                "img": "https://lh3.googleusercontent.com/pw/ADCreHeT1EGioKZzwGUEiX10iO0pr84-6qGVXaxYvFHd44rP15zyA2nU4239JCM6o3c_RltUEnq-j8Zo-opnKwh_uw5t55GwTiSoF1Ck2ChAES7kk9Kt1l_L3Z339oUUkOJt2ND0q21P-JORLzL1leqNjrVD=w16-h16-s-no?authuser=0",
-                "link": "https://iconicjob.vn//"
-            }
-        ]
-    },
-    {
-        "id": "women",
-        "title": "Women",
-        "icon": "/icons/football.png",
+        "id": "celeb",
+        "title": "Celebrity",
+        "icon": "/icons/celeb.png",
         "color": "yellow",
         "items": [
             {
@@ -932,7 +849,90 @@
             {
                 "name": "Hoteljob",
                 "img": "https://lh3.googleusercontent.com/pw/ADCreHfgIcjDuHM8udT8i3nNWdkhBQVb2nlmnfsa2eRHyHpx6XDeDnob5Nujo632kbQ9B_LIhjUHYSqDfNnyEAZ51T-aF2-HN64x5NQGxtQ_pwSUowG4_ShXYdGSkLmU20ZRtjc5D7n2pxfSVehQn8k--IXR=w32-h32-s-no?authuser=0",
-                "link": "hhttps://www.hoteljob.vn/"
+                "link": "https://www.hoteljob.vn/"
+            },
+            {
+                "name": "Iconicjob",
+                "img": "https://lh3.googleusercontent.com/pw/ADCreHeT1EGioKZzwGUEiX10iO0pr84-6qGVXaxYvFHd44rP15zyA2nU4239JCM6o3c_RltUEnq-j8Zo-opnKwh_uw5t55GwTiSoF1Ck2ChAES7kk9Kt1l_L3Z339oUUkOJt2ND0q21P-JORLzL1leqNjrVD=w16-h16-s-no?authuser=0",
+                "link": "https://iconicjob.vn//"
+            }
+        ]
+    },
+    {
+        "id": "women",
+        "title": "Women",
+        "icon": "/icons/women.png",
+        "color": "yellow",
+        "items": [
+            {
+                "name": "Vietnamworks",
+                "img": "https://lh3.googleusercontent.com/pw/ADCreHeZQQPQvS_2OxAZ8hkv4d3kK33OVz6lsWsQYRZkO-m7BM2T3mH4pA0qdGYYPkOxtLt0hF3AVJqsNr4u-ncr_2AmJW37cjRtfSYEu2InI7YH5evW88jcKyydNUsPzgLXnsoSSaxEXF95wg_vEpC34zZr=w256-h256-s-no?authuser=0",
+                "link": "https://www.vietnamworks.com/tim-viec-lam/tim-tat-ca-viec-lam"
+            },
+            {
+                "name": "CarreerBuilder",
+                "img": "https://lh3.googleusercontent.com/pw/ADCreHd_FB8Akm0idMdOLBwDjag6tu9o1Z3eSZK_qxQ99HQ3Xvu0guM0SgAZFQ3stS66KiaKKRpEDgNHfS6TVS0bWujanfP2Qk8cnA6c1LEYqOYDBa_FyzewHButSs7j5AWcIWebalu26vuo9QcIeUHCVOPu=w225-h225-s-no?authuser=0",
+                "link": "https://careerbuilder.vn/"
+            },
+            {
+                "name": "Topdev",
+                "img": "https://lh3.googleusercontent.com/pw/ADCreHemePUOw5I5q4Ayh4o534PreJOL1nm_phvg1oWspPLhAVaPYLhANYzQm7rWG6NdGfX-ZmPK0EFfosQWFF6hDbDV3gPOj4Np-VZUToT2YgQrHex_p5pBWR7a5Y2558aHDmom9aNfSFJ4IHaShQiISpbq=w439-h439-s-no?authuser=0",
+                "link": "https://topdev.vn/"
+            },
+            {
+                "name": "Timviec365",
+                "img": "https://lh3.googleusercontent.com/pw/ADCreHcL3DFEsf9pWhTaKpQXmzFVt8bLSsJm2ExlBPNCHEBgY9UPdmOm84QqnQoAI1X1QrbZSGH5BrHjEkGYjx1kNI0-yTlCQ_ivLgzPq9vqm6KIS_FfjbBrdTpdVrflqB0Mh9mpOehOta0oKGa7Mszurci4=w225-h225-s-no?authuser=0",
+                "link": "https://timviec365.vn/"
+            },
+            {
+                "name": "Việc làm 24h",
+                "img": "https://lh3.googleusercontent.com/pw/ADCreHcHzAn51nd1Zp8bynTJNlSRPXoLQMTJmaHyAxDhHJ2TObUOCQsg4vYwtN_pJcMeFIQdxWDXnrejtpd4tQ80oz1ikVQwSod_q78qTmOgjEHsiGyk1wpHu986chyKH6teeV4GDaeJvM6uGKmgnQImfw7H=w225-h225-s-no?authuser=0",
+                "link": "https://vieclam24h.vn/"
+            },
+            {
+                "name": "Top CV",
+                "img": "https://lh3.googleusercontent.com/pw/ADCreHfVhfFJnEiaAPoYZZju97j4Jo60fYcrgfhDvaH7217LX7MkmHAJE2y44Mgl07mlyviUNgdymAKKfIZqtYT-tkPrCZqlnW48VY08D-wP5vDf-46Sr8r0aIv5kmBvkePoNbOxBArvXN5f9OV96mju71T4=w225-h225-s-no?authuser=0",
+                "link": "https://www.topcv.vn/viec-lam"
+            },
+            {
+                "name": "Jobstreet",
+                "img": "https://lh3.googleusercontent.com/pw/ADCreHeSF_-QjRiP02YuJ6F9vXEhEOX0gkVMsSGUAiwkNrN5HWh13-8qxNbUv63Owl5r42_VYWwSnsZCokagD4aWDDmiKJ6Rk2ktS05K-3IwHrFy8RrbIREgcLcfEJe9l52TKuDBuWsJbC-0lB6GLAIIQt3q=w32-h32-s-no?authuser=0",
+                "link": "https://www.jobstreet.vn/"
+            },
+            {
+                "name": "123job",
+                "img": "https://lh3.googleusercontent.com/pw/ADCreHeztweZpiTF9t8YCHqDpv9wI8t5PJcy4q4_ChCrZJ6JYXh98kHElmQdoBXsNdEU05DLSzd2y4f78YGTxeW_pGlJhbHfGaFYbjmZ7gfuJYf_blvpB17eDwXCbZXpGtJDV8i1vKy90U41dQ80pPBN8qtO=w32-h32-s-no?authuser=0",
+                "link": "https://123job.vn/"
+            },
+            {
+                "name": "Careerlink",
+                "img": "https://lh3.googleusercontent.com/pw/ADCreHfmtQjM76wv_zndKGH9F0n54sETwebOZKFwHgz6fd08U50orXEh7Z2-3TH6biWJU3t3RLL_ezRdLqxpntwnsKn84AS_WpIwYXM3JKJ3eO1dzAs4f4mnO-TCcyfMI0wDdJ-GOKbNPXRXa1fcrW8uYeC0=w32-h32-s-no?authuser=0",
+                "link": "https://www.careerlink.vn/"
+            },
+            {
+                "name": "Jobsgo",
+                "img": "https://lh3.googleusercontent.com/pw/ADCreHdyuzV_yBXr7776VvaSD-L4xB1yvUOV-ITciAYgO01JeVqsvFTD_xbI4XtokDETYlGqU1WNRx52v2-k_VuhRbMUURZVcw5UmnOhtZcdALBSTZsFGsi_JEcMk8QkxnLU1fCbWB52TWG7VlEX4ZlLvzop=w32-h32-s-no?authuser=0",
+                "link": "https://jobsgo.vn/"
+            },
+            {
+                "name": "Mywork",
+                "img": "https://lh3.googleusercontent.com/pw/ADCreHfwbxRceRJhxhAajI1r_6Jx0WawJWeNvgICXPmWm0fyLPfD6dDnylknCnmMZsSTVnYwyES37xH_r2unMgCLa4saxjn-Dbq8pTUob0pA0BWRczOgaTNb-V8Ao4y1Yd_1O0FxKbuj7aogx7o4DNb-zR4t=w160-h160-s-no?authuser=0",
+                "link": "https://mywork.com.vn/"
+            },
+            {
+                "name": "Ybox",
+                "img": "https://lh3.googleusercontent.com/pw/ADCreHcfQC4vrlrqji5vc-q0YBFibb9iNhllaYVKaEQpE6sLPAO34XKsqKkRDecplwVpfGa2LghyZbC36Af9NnB_JdnfW-FBwS6ElQFlVSVup_Wm2whLwGz7UhJeK9pq03T9a4USojyNoh_J4gyE45AN2MEv=w32-h32-s-no?authuser=0",
+                "link": "https://ybox.vn/"
+            },
+            {
+                "name": "Joboko",
+                "img": "https://lh3.googleusercontent.com/pw/ADCreHdMat4_DBcdJ-4ecqBumji4cmDCVMHExjxBzOKHhasaXQ4WPMV84pp6pD2PbKdqUvCwQ0d_rcpTx0R2khpVClGuYHPSQf6DwiNf_XmWri-SVySdRzyNE9jC---0J_MDxuSNXDp1bN-TKOUCJSQ4LsAZ=w439-h220-s-no?authuser=0",
+                "link": "https://vn.joboko.com/"
+            },
+            {
+                "name": "Hoteljob",
+                "img": "https://lh3.googleusercontent.com/pw/ADCreHfgIcjDuHM8udT8i3nNWdkhBQVb2nlmnfsa2eRHyHpx6XDeDnob5Nujo632kbQ9B_LIhjUHYSqDfNnyEAZ51T-aF2-HN64x5NQGxtQ_pwSUowG4_ShXYdGSkLmU20ZRtjc5D7n2pxfSVehQn8k--IXR=w32-h32-s-no?authuser=0",
+                "link": "https://www.hoteljob.vn/"
             },
             {
                 "name": "Iconicjob",
@@ -944,8 +944,8 @@
     {
         "id": "politics",
         "title": "Politics",
-        "icon": "/icons/football.png",
-        "color": "blue",
+        "icon": "/icons/politic.png",
+        "color": "cyan",
         "items": [
             {
                 "name": "Vietnamworks",
@@ -1015,7 +1015,7 @@
             {
                 "name": "Hoteljob",
                 "img": "https://lh3.googleusercontent.com/pw/ADCreHfgIcjDuHM8udT8i3nNWdkhBQVb2nlmnfsa2eRHyHpx6XDeDnob5Nujo632kbQ9B_LIhjUHYSqDfNnyEAZ51T-aF2-HN64x5NQGxtQ_pwSUowG4_ShXYdGSkLmU20ZRtjc5D7n2pxfSVehQn8k--IXR=w32-h32-s-no?authuser=0",
-                "link": "hhttps://www.hoteljob.vn/"
+                "link": "https://www.hoteljob.vn/"
             },
             {
                 "name": "Iconicjob",
@@ -1027,8 +1027,8 @@
     {
         "id": "technology",
         "title": "Technology",
-        "icon": "/icons/football.png",
-        "color": "indigo",
+        "icon": "/icons/technology.png",
+        "color": "green",
         "items": [
             {
                 "name": "Vietnamworks",
@@ -1098,7 +1098,7 @@
             {
                 "name": "Hoteljob",
                 "img": "https://lh3.googleusercontent.com/pw/ADCreHfgIcjDuHM8udT8i3nNWdkhBQVb2nlmnfsa2eRHyHpx6XDeDnob5Nujo632kbQ9B_LIhjUHYSqDfNnyEAZ51T-aF2-HN64x5NQGxtQ_pwSUowG4_ShXYdGSkLmU20ZRtjc5D7n2pxfSVehQn8k--IXR=w32-h32-s-no?authuser=0",
-                "link": "hhttps://www.hoteljob.vn/"
+                "link": "https://www.hoteljob.vn/"
             },
             {
                 "name": "Iconicjob",
@@ -1109,8 +1109,8 @@
     },
     {
         "id": "tv_show",
-        "title": "TV & show",
-        "icon": "/icons/football.png",
+        "title": "TV show",
+        "icon": "/icons/tv.png",
         "color": "indigo",
         "items": [
             {
@@ -1181,7 +1181,7 @@
             {
                 "name": "Hoteljob",
                 "img": "https://lh3.googleusercontent.com/pw/ADCreHfgIcjDuHM8udT8i3nNWdkhBQVb2nlmnfsa2eRHyHpx6XDeDnob5Nujo632kbQ9B_LIhjUHYSqDfNnyEAZ51T-aF2-HN64x5NQGxtQ_pwSUowG4_ShXYdGSkLmU20ZRtjc5D7n2pxfSVehQn8k--IXR=w32-h32-s-no?authuser=0",
-                "link": "hhttps://www.hoteljob.vn/"
+                "link": "https://www.hoteljob.vn/"
             },
             {
                 "name": "Iconicjob",
@@ -1193,8 +1193,8 @@
     {
         "id": "car",
         "title": "Car",
-        "icon": "/icons/football.png",
-        "color": "indigo",
+        "icon": "/icons/car.png",
+        "color": "orange",
         "items": [
             {
                 "name": "Vietnamworks",
@@ -1264,7 +1264,7 @@
             {
                 "name": "Hoteljob",
                 "img": "https://lh3.googleusercontent.com/pw/ADCreHfgIcjDuHM8udT8i3nNWdkhBQVb2nlmnfsa2eRHyHpx6XDeDnob5Nujo632kbQ9B_LIhjUHYSqDfNnyEAZ51T-aF2-HN64x5NQGxtQ_pwSUowG4_ShXYdGSkLmU20ZRtjc5D7n2pxfSVehQn8k--IXR=w32-h32-s-no?authuser=0",
-                "link": "hhttps://www.hoteljob.vn/"
+                "link": "https://www.hoteljob.vn/"
             },
             {
                 "name": "Iconicjob",
@@ -1276,8 +1276,8 @@
     {
         "id": "economy",
         "title": "Economy",
-        "icon": "/icons/football.png",
-        "color": "indigo",
+        "icon": "/icons/economy.png",
+        "color": "green",
         "items": [
             {
                 "name": "Vietnamworks",
@@ -1347,7 +1347,90 @@
             {
                 "name": "Hoteljob",
                 "img": "https://lh3.googleusercontent.com/pw/ADCreHfgIcjDuHM8udT8i3nNWdkhBQVb2nlmnfsa2eRHyHpx6XDeDnob5Nujo632kbQ9B_LIhjUHYSqDfNnyEAZ51T-aF2-HN64x5NQGxtQ_pwSUowG4_ShXYdGSkLmU20ZRtjc5D7n2pxfSVehQn8k--IXR=w32-h32-s-no?authuser=0",
-                "link": "hhttps://www.hoteljob.vn/"
+                "link": "https://www.hoteljob.vn/"
+            },
+            {
+                "name": "Iconicjob",
+                "img": "https://lh3.googleusercontent.com/pw/ADCreHeT1EGioKZzwGUEiX10iO0pr84-6qGVXaxYvFHd44rP15zyA2nU4239JCM6o3c_RltUEnq-j8Zo-opnKwh_uw5t55GwTiSoF1Ck2ChAES7kk9Kt1l_L3Z339oUUkOJt2ND0q21P-JORLzL1leqNjrVD=w16-h16-s-no?authuser=0",
+                "link": "https://iconicjob.vn//"
+            }
+        ]
+    },
+    {
+        "id": "programming",
+        "title": "Programming",
+        "icon": "/icons/programming.png",
+        "color": "teal",
+        "items": [
+            {
+                "name": "Vietnamworks",
+                "img": "https://lh3.googleusercontent.com/pw/ADCreHeZQQPQvS_2OxAZ8hkv4d3kK33OVz6lsWsQYRZkO-m7BM2T3mH4pA0qdGYYPkOxtLt0hF3AVJqsNr4u-ncr_2AmJW37cjRtfSYEu2InI7YH5evW88jcKyydNUsPzgLXnsoSSaxEXF95wg_vEpC34zZr=w256-h256-s-no?authuser=0",
+                "link": "https://www.vietnamworks.com/tim-viec-lam/tim-tat-ca-viec-lam"
+            },
+            {
+                "name": "CarreerBuilder",
+                "img": "https://lh3.googleusercontent.com/pw/ADCreHd_FB8Akm0idMdOLBwDjag6tu9o1Z3eSZK_qxQ99HQ3Xvu0guM0SgAZFQ3stS66KiaKKRpEDgNHfS6TVS0bWujanfP2Qk8cnA6c1LEYqOYDBa_FyzewHButSs7j5AWcIWebalu26vuo9QcIeUHCVOPu=w225-h225-s-no?authuser=0",
+                "link": "https://careerbuilder.vn/"
+            },
+            {
+                "name": "Topdev",
+                "img": "https://lh3.googleusercontent.com/pw/ADCreHemePUOw5I5q4Ayh4o534PreJOL1nm_phvg1oWspPLhAVaPYLhANYzQm7rWG6NdGfX-ZmPK0EFfosQWFF6hDbDV3gPOj4Np-VZUToT2YgQrHex_p5pBWR7a5Y2558aHDmom9aNfSFJ4IHaShQiISpbq=w439-h439-s-no?authuser=0",
+                "link": "https://topdev.vn/"
+            },
+            {
+                "name": "Timviec365",
+                "img": "https://lh3.googleusercontent.com/pw/ADCreHcL3DFEsf9pWhTaKpQXmzFVt8bLSsJm2ExlBPNCHEBgY9UPdmOm84QqnQoAI1X1QrbZSGH5BrHjEkGYjx1kNI0-yTlCQ_ivLgzPq9vqm6KIS_FfjbBrdTpdVrflqB0Mh9mpOehOta0oKGa7Mszurci4=w225-h225-s-no?authuser=0",
+                "link": "https://timviec365.vn/"
+            },
+            {
+                "name": "Việc làm 24h",
+                "img": "https://lh3.googleusercontent.com/pw/ADCreHcHzAn51nd1Zp8bynTJNlSRPXoLQMTJmaHyAxDhHJ2TObUOCQsg4vYwtN_pJcMeFIQdxWDXnrejtpd4tQ80oz1ikVQwSod_q78qTmOgjEHsiGyk1wpHu986chyKH6teeV4GDaeJvM6uGKmgnQImfw7H=w225-h225-s-no?authuser=0",
+                "link": "https://vieclam24h.vn/"
+            },
+            {
+                "name": "Top CV",
+                "img": "https://lh3.googleusercontent.com/pw/ADCreHfVhfFJnEiaAPoYZZju97j4Jo60fYcrgfhDvaH7217LX7MkmHAJE2y44Mgl07mlyviUNgdymAKKfIZqtYT-tkPrCZqlnW48VY08D-wP5vDf-46Sr8r0aIv5kmBvkePoNbOxBArvXN5f9OV96mju71T4=w225-h225-s-no?authuser=0",
+                "link": "https://www.topcv.vn/viec-lam"
+            },
+            {
+                "name": "Jobstreet",
+                "img": "https://lh3.googleusercontent.com/pw/ADCreHeSF_-QjRiP02YuJ6F9vXEhEOX0gkVMsSGUAiwkNrN5HWh13-8qxNbUv63Owl5r42_VYWwSnsZCokagD4aWDDmiKJ6Rk2ktS05K-3IwHrFy8RrbIREgcLcfEJe9l52TKuDBuWsJbC-0lB6GLAIIQt3q=w32-h32-s-no?authuser=0",
+                "link": "https://www.jobstreet.vn/"
+            },
+            {
+                "name": "123job",
+                "img": "https://lh3.googleusercontent.com/pw/ADCreHeztweZpiTF9t8YCHqDpv9wI8t5PJcy4q4_ChCrZJ6JYXh98kHElmQdoBXsNdEU05DLSzd2y4f78YGTxeW_pGlJhbHfGaFYbjmZ7gfuJYf_blvpB17eDwXCbZXpGtJDV8i1vKy90U41dQ80pPBN8qtO=w32-h32-s-no?authuser=0",
+                "link": "https://123job.vn/"
+            },
+            {
+                "name": "Careerlink",
+                "img": "https://lh3.googleusercontent.com/pw/ADCreHfmtQjM76wv_zndKGH9F0n54sETwebOZKFwHgz6fd08U50orXEh7Z2-3TH6biWJU3t3RLL_ezRdLqxpntwnsKn84AS_WpIwYXM3JKJ3eO1dzAs4f4mnO-TCcyfMI0wDdJ-GOKbNPXRXa1fcrW8uYeC0=w32-h32-s-no?authuser=0",
+                "link": "https://www.careerlink.vn/"
+            },
+            {
+                "name": "Jobsgo",
+                "img": "https://lh3.googleusercontent.com/pw/ADCreHdyuzV_yBXr7776VvaSD-L4xB1yvUOV-ITciAYgO01JeVqsvFTD_xbI4XtokDETYlGqU1WNRx52v2-k_VuhRbMUURZVcw5UmnOhtZcdALBSTZsFGsi_JEcMk8QkxnLU1fCbWB52TWG7VlEX4ZlLvzop=w32-h32-s-no?authuser=0",
+                "link": "https://jobsgo.vn/"
+            },
+            {
+                "name": "Mywork",
+                "img": "https://lh3.googleusercontent.com/pw/ADCreHfwbxRceRJhxhAajI1r_6Jx0WawJWeNvgICXPmWm0fyLPfD6dDnylknCnmMZsSTVnYwyES37xH_r2unMgCLa4saxjn-Dbq8pTUob0pA0BWRczOgaTNb-V8Ao4y1Yd_1O0FxKbuj7aogx7o4DNb-zR4t=w160-h160-s-no?authuser=0",
+                "link": "https://mywork.com.vn/"
+            },
+            {
+                "name": "Ybox",
+                "img": "https://lh3.googleusercontent.com/pw/ADCreHcfQC4vrlrqji5vc-q0YBFibb9iNhllaYVKaEQpE6sLPAO34XKsqKkRDecplwVpfGa2LghyZbC36Af9NnB_JdnfW-FBwS6ElQFlVSVup_Wm2whLwGz7UhJeK9pq03T9a4USojyNoh_J4gyE45AN2MEv=w32-h32-s-no?authuser=0",
+                "link": "https://ybox.vn/"
+            },
+            {
+                "name": "Joboko",
+                "img": "https://lh3.googleusercontent.com/pw/ADCreHdMat4_DBcdJ-4ecqBumji4cmDCVMHExjxBzOKHhasaXQ4WPMV84pp6pD2PbKdqUvCwQ0d_rcpTx0R2khpVClGuYHPSQf6DwiNf_XmWri-SVySdRzyNE9jC---0J_MDxuSNXDp1bN-TKOUCJSQ4LsAZ=w439-h220-s-no?authuser=0",
+                "link": "https://vn.joboko.com/"
+            },
+            {
+                "name": "Hoteljob",
+                "img": "https://lh3.googleusercontent.com/pw/ADCreHfgIcjDuHM8udT8i3nNWdkhBQVb2nlmnfsa2eRHyHpx6XDeDnob5Nujo632kbQ9B_LIhjUHYSqDfNnyEAZ51T-aF2-HN64x5NQGxtQ_pwSUowG4_ShXYdGSkLmU20ZRtjc5D7n2pxfSVehQn8k--IXR=w32-h32-s-no?authuser=0",
+                "link": "https://www.hoteljob.vn/"
             },
             {
                 "name": "Iconicjob",

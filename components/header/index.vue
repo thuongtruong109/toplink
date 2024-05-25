@@ -3,7 +3,8 @@
     <HeaderLogo />
     <div class="flex space-x-2">
       <!-- <HeaderLanguageChange /> -->
-      <HeaderColorChange />
+      <Search />
+      <HeaderTheme />
     </div>
   </header>
 </template>

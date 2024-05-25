@@ -35,13 +35,21 @@ const availableColor = ref([
     >
       <ListboxButton type="button" title="Change Color">
         <div
-          class="flex h-9 w-9 items-center justify-center rounded-lg bg-green-500/10 md:bg-transparent md:hover:bg-green-500/10 dark:bg-gray-700"
+          class="flex h-9 w-9 items-center justify-center rounded-lg bg-green-500/10 md:bg-transparent md:hover:bg-white dark:bg-white/20 dark:hover:bg-white/30"
         >
           <IconsTheme />
         </div>
       </ListboxButton>
+      <transition
+          enter-active-class="transition duration-100 ease-out"
+          enter-from-class="transform scale-95 opacity-0"
+          enter-to-class="transform scale-100 opacity-100"
+          leave-active-class="transition duration-75 ease-in"
+          leave-from-class="transform scale-100 opacity-100"
+          leave-to-class="transform scale-95 opacity-0"
+        >
       <ListboxOptions
-        class="absolute top-full right-0 z-[999] mt-1 w-36 p-1 overflow-hidden rounded-lg bg-white text-sm font-semibold text-gray-700 shadow-lg shadow-gray-300 outline-none dark:bg-gray-800 dark:text-white dark:shadow-gray-500 dark:ring-0 flex flex-col space-y-0.5"
+        class="absolute top-full origin-top-right right-0 z-[999] mt-1 w-36 p-1 overflow-hidden rounded-lg bg-white text-sm font-semibold text-gray-700 shadow-lg shadow-gray-300 outline-none dark:bg-gray-800 dark:text-white dark:shadow-gray-500 dark:ring-0 flex flex-col space-y-0.5"
       >
         <ListboxOption
           v-for="color in availableColor"
@@ -63,6 +71,7 @@ const availableColor = ref([
           </span>
         </ListboxOption>
       </ListboxOptions>
+    </transition>
     </Listbox>
   </div>
 </template>

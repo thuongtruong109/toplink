@@ -1,15 +1,14 @@
-# Megalink
-🌐 *Linking You to the Web's Finest: Explore - Connect - Click!*
+# Toplink
 
-[![code style](https://antfu.me/badge-code-style.svg)](https://github.com/antfu/eslint-config)
+> 🌐 *Linking You to the Web's Finest: Explore - Connect - Click!*
 
-<!-- ## Preview
-![image](https://user-images.githubusercontent.com/38668796/179501879-b1efa419-8419-4c27-a79e-d185cb2884b7.png) -->
+![Build status](https://img.shields.io/github/actions/workflow/status/thuongtruong109/toplink/ci.yml)
+[![Code style](https://antfu.me/badge-code-style.svg)](https://github.com/antfu/eslint-config)
 
+### 🔮 Preview
+![image](/public/preview.png)
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/productdevbook/nuxt3-app)
-
-### Tech stacks
+### 💫 Tech stacks
 This starter template also includes:
 
 - [Tailwind CSS v3](https://github.com/tailwindlabs/tailwindcss)
@@ -22,30 +21,42 @@ This starter template also includes:
 - [tailwindcss/aspect-ratio](https://github.com/tailwindlabs/tailwindcss-aspect-ratio)
 - [Pinia](https://github.com/posva/pinia)
 
-## Setup
+### 📦 How to run
 
-Make sure to install the dependencies
-
-```bash
-npm install
-```
-
-Start the development server on http://localhost:3000
+### 1. Install dependencies
 
 ```bash
-npm dev
+$ npm install
 ```
 
-Build the application for production:
+#### 2. Run
 
 ```bash
-npm build
+$ npm run dev
 ```
+
+#### 3. Build
 
 ```bash
-npm start
+$ npm run build
 ```
 
+#### 4. Run linters & formatters
+
+```bash
+$ npm run lint
+```
+
+### 📅 Add data?
+
+- Update in [assets/url](https://github.com/thuongtruong109/toplink/blob/main/assets/data.json)
+- Check detailed instructions at [CONTRIBUTING](https://github.com/thuongtruong109/toplink/blob/main/.github/CONTRIBUTING.md)
+
+### 🪪 License
+
+By contributing, you agree that your contributions will be licensed under its [MIT License](../LICENSE).
+
+<!-- ### 🔗 Refs -->
 <!-- idea: https://www.xemm.me/ -->
 <!-- tab: https://www.material-tailwind.com/docs/html/gallery -->
 <!-- grid masonry: https://dev.to/kdrbek/responsive-masonry-layout-with-tailwindcss-in-2-steps-4kkj -->

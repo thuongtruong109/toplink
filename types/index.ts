@@ -15,6 +15,8 @@ export type IUrl = {
   id: string
   title: string
   icon: string
-  items: Array<IUrlItem>
   color: string
+  items: Array<IUrlItem>
 }
+
+export type IUrlField = Omit<IUrl, "items">;

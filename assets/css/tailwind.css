@@ -1,5 +1,6 @@
 /* @import url('https://fonts.googleapis.com/css2?family=Rubik+Moonrocks&display=swap'); */
 @import url('https://fonts.googleapis.com/css2?family=Rubik+Wet+Paint&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
 
 @tailwind base;
 @tailwind components;
@@ -10,6 +11,28 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    scroll-behavior: smooth;
+  }
+
+  ::-webkit-scrollbar {
+    width: 0.5rem;
+  }
+
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1;
+  }
+
+  html.dark ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: rgb(156 163 175);
+    border-radius: 5rem;
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background: #888;
   }
   
   html {
@@ -17,8 +40,12 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
-    overflow: hidden;
-    height: 100vh;
+    background-attachment: fixed;
+    overflow-x: hidden;
+  }
+
+  html.dark {
+    background-image: url('~/assets/img/dark_bg.jpg');
   }
 
   select, input, textarea, button {
@@ -40,6 +67,11 @@
     font-weight: 400;
     font-style: normal;
   }
+  .righteous_font {
+    font-family: "Righteous", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }  
 }
 
 @layer utilities {
