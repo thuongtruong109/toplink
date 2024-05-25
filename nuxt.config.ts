@@ -1,11 +1,11 @@
 import presetIcons from '@unocss/preset-icons'
+import { BASE_URL } from './path'
 
 export default defineNuxtConfig({
   app: {
-    baseURL: '/toplink/',
+    baseURL: BASE_URL,
     buildAssetsDir: 'assets',
   },
-
   srcDir: './',
   modules: [
     '@vueuse/nuxt',

@@ -85,7 +85,7 @@
                 <input type="text" placeholder="Search links" class="border-none w-full" v-model="input">
               </div>
               <figure class="flex flex-col justify-center items-center mt-4 md:mt-6 h-40 text-sm text-gray-400" v-if="filtedList.length == 0">
-                <img src="~/assets/img/empty.png" alt="empty" width="148" height="148">
+                <img src="/img/empty.png" alt="empty" width="148" height="148">
                 <span>Not match result!</span>
               </figure>
               <ul class="mt-4 md:mt-6 max-h-60 h-60 overflow-y-auto flex flex-col space-y-1 pr-2" v-else>

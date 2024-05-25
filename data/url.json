@@ -2,7 +2,7 @@
     {
         "id": "music",
         "title": "Music",
-        "icon": "/icons/music.png",
+        "icon": "icons/music.png",
         "color": "pink",
         "items": [
             {
@@ -35,7 +35,7 @@
     {
         "id": "social_network",
         "title": "Social networking",
-        "icon": "/icons/social_network.png",
+        "icon": "icons/social_network.png",
         "color": "blue",
         "items": [
             {
@@ -73,7 +73,7 @@
     {
         "id": "search_engine",
         "title": "Search engine",
-        "icon": "/icons/search.png",
+        "icon": "icons/search.png",
         "color": "green",
         "items": [
             {
@@ -131,7 +131,7 @@
     {
         "id": "browser",
         "title": "Browser",
-        "icon": "/icons/browser.png",
+        "icon": "icons/browser.png",
         "color": "cyan",
         "items": [
             {
@@ -189,7 +189,7 @@
     {
         "id": "youtube_download",
         "title": "Youtube download",
-        "icon": "/icons/youtube_download.png",
+        "icon": "icons/youtube_download.png",
         "color": "red",
         "items": [
             {
@@ -222,7 +222,7 @@
     {
         "id": "wallpaper",
         "title": "Wallpaper",
-        "icon": "/icons/wallpaper.png",
+        "icon": "icons/wallpaper.png",
         "color": "orange",
         "items": [
             {
@@ -280,7 +280,7 @@
     {
         "id": "recruitment",
         "title": "Recruitment",
-        "icon": "/icons/recruitment.png",
+        "icon": "icons/recruitment.png",
         "color": "red",
         "items": [
             {
@@ -363,7 +363,7 @@
     {
         "id": "magazine",
         "title": "Magazine",
-        "icon": "/icons/magazine.png",
+        "icon": "icons/magazine.png",
         "color": "orange",
         "items": [
             {
@@ -446,7 +446,7 @@
     {
         "id": "news",
         "title": "News",
-        "icon": "/icons/news.png",
+        "icon": "icons/news.png",
         "color": "yellow",
         "items": [
             {
@@ -529,7 +529,7 @@
     {
         "id": "shopping",
         "title": "Shopping",
-        "icon": "/icons/shopping.png",
+        "icon": "icons/shopping.png",
         "color": "green",
         "items": [
             {
@@ -612,7 +612,7 @@
     {
         "id": "desktop_downloader",
         "title": "Desktop downloader",
-        "icon": "/icons/desktop_downloader.png",
+        "icon": "icons/desktop_downloader.png",
         "color": "blue",
         "items": [
             {
@@ -695,7 +695,7 @@
     {
         "id": "football",
         "title": "Football",
-        "icon": "/icons/football.png",
+        "icon": "icons/football.png",
         "color": "indigo",
         "items": [
             {
@@ -778,7 +778,7 @@
     {
         "id": "celeb",
         "title": "Celebrity",
-        "icon": "/icons/celeb.png",
+        "icon": "icons/celeb.png",
         "color": "yellow",
         "items": [
             {
@@ -861,7 +861,7 @@
     {
         "id": "women",
         "title": "Women",
-        "icon": "/icons/women.png",
+        "icon": "icons/women.png",
         "color": "yellow",
         "items": [
             {
@@ -944,7 +944,7 @@
     {
         "id": "politics",
         "title": "Politics",
-        "icon": "/icons/politic.png",
+        "icon": "icons/politic.png",
         "color": "cyan",
         "items": [
             {
@@ -1027,7 +1027,7 @@
     {
         "id": "technology",
         "title": "Technology",
-        "icon": "/icons/technology.png",
+        "icon": "icons/technology.png",
         "color": "green",
         "items": [
             {
@@ -1110,7 +1110,7 @@
     {
         "id": "tv_show",
         "title": "TV show",
-        "icon": "/icons/tv.png",
+        "icon": "icons/tv.png",
         "color": "indigo",
         "items": [
             {
@@ -1193,7 +1193,7 @@
     {
         "id": "car",
         "title": "Car",
-        "icon": "/icons/car.png",
+        "icon": "icons/car.png",
         "color": "orange",
         "items": [
             {
@@ -1276,7 +1276,7 @@
     {
         "id": "economy",
         "title": "Economy",
-        "icon": "/icons/economy.png",
+        "icon": "icons/economy.png",
         "color": "green",
         "items": [
             {
@@ -1359,7 +1359,7 @@
     {
         "id": "programming",
         "title": "Programming",
-        "icon": "/icons/programming.png",
+        "icon": "icons/programming.png",
         "color": "teal",
         "items": [
             {

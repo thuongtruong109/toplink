@@ -1,5 +1,6 @@
 <script setup lang="ts">
     import type { IUrl, IUrlItem } from '~/types';
+    import { BASE_URL } from '~/path'
 
     defineProps<{
         url: IUrl
@@ -58,7 +59,7 @@
     <div :class="`break-inside group/card h-fit border-2 p-2 rounded-xl mb-4 ${colorStyle(url.color).bg}`" :id="url.id">
         <div :class="`text-base font-medium border rounded-md px-2 py-1 flex justify-between items-center ${colorStyle(url.color).title}`">
             <div class="righteous_font flex items-center space-x-1 whitespace-nowrap overflow-hidden max-w-[calc(100%-82px)]">
-                <img :src="url.icon" :alt="`${url.title} icon`" width="16" height="16" class="w-4 h-4" />
+                <img :src="`${BASE_URL}${url.icon}`" :alt="`${url.title} icon`" width="16" height="16" class="w-4 h-4" />
                 <h3>{{ url.title }}</h3>
             </div>
             <div class="flex md:hidden md:group-hover/card:flex items-center space-x-1.5 ml-2">

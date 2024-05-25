@@ -6,7 +6,8 @@
 [![Code style](https://antfu.me/badge-code-style.svg)](https://github.com/antfu/eslint-config)
 
 ### 🔮 Preview
-![image](/public/preview.png)
+
+<img src="./public/preview.png" alt="preview" width="1000" />
 
 ### 💫 Tech stacks
 This starter template also includes:
