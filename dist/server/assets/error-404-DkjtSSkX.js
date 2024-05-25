@@ -91,4 +91,4 @@ const error404 = /* @__PURE__ */ _export_sfc(_sfc_main, [["__scopeId", "data-v-7
 export {
   error404 as default
 };
-//# sourceMappingURL=error-404-CL6WkWG2.js.map
+//# sourceMappingURL=error-404-DkjtSSkX.js.map
