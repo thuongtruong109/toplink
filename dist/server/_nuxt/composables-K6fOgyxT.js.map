@@ -1,0 +1,1 @@
+{"version":3,"file":"composables-K6fOgyxT.js","sources":["../../../../node_modules/@nuxtjs/color-mode/dist/runtime/composables.mjs"],"sourcesContent":["import { useState } from \"#imports\";\nexport const useColorMode = () => {\n  return useState(\"color-mode\").value;\n};\n"],"names":[],"mappings":";AACY,MAAC,eAAe,MAAM;AAChC,SAAO,SAAS,YAAY,EAAE;AAChC;","x_google_ignoreList":[0]}
