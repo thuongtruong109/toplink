@@ -42,10 +42,7 @@
     background-position: center center;
     background-attachment: fixed;
     overflow-x: hidden;
-  }
-
-  html.dark {
-    background-image: url('/toplink/img/dark_bg.png');
+    color-scheme: light;
   }
 
   select, input, textarea, button {

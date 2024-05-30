@@ -12,7 +12,7 @@
 ### 💫 Tech stacks
 This starter template also includes:
 
-- [Tailwind CSS v3](https://github.com/tailwindlabs/tailwindcss)
+- [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss)
 - [Eslint](https://eslint.org)
 - [Headless UI](https://headlessui.dev/vue/menu) - unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS
 - [Icones](https://github.com/antfu/icones) - beautiful hand-crafted SVG icons with [Unocss](https://github.com/unocss/unocss) used. 
@@ -61,3 +61,4 @@ By contributing, you agree that your contributions will be licensed under its [M
 <!-- idea: https://www.xemm.me/ -->
 <!-- tab: https://www.material-tailwind.com/docs/html/gallery -->
 <!-- grid masonry: https://dev.to/kdrbek/responsive-masonry-layout-with-tailwindcss-in-2-steps-4kkj -->
+<!-- Logo: https://img.icons8.com/pulsar-gradient/48/personal-hotspot.png -->

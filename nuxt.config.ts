@@ -1,4 +1,3 @@
-import presetIcons from '@unocss/preset-icons'
 import { BASE_URL } from './path'
 
 export default defineNuxtConfig({
@@ -11,27 +10,11 @@ export default defineNuxtConfig({
     '@vueuse/nuxt',
     '@nuxtjs/tailwindcss',
     '@pinia/nuxt',
-    '@unocss/nuxt',
     '@nuxtjs/i18n',
-    '@nuxtjs/color-mode',
     '@huntersofbook/naive-ui-nuxt',
   ],
   build: {
     transpile: ['@headlessui/vue'],
-  },
-  unocss: {
-    uno: false,
-    preflight: false,
-    icons: true,
-    presets: [
-      presetIcons({
-        scale: 1.2,
-        extraProperties: {
-          display: 'inline-block',
-        },
-      }),
-    ],
-    safelist: ['i-twemoji-flag-us-outlying-islands', 'i-twemoji-flag-turkey'],
   },
 
   i18n: {
@@ -60,11 +43,6 @@ export default defineNuxtConfig({
         types: ['@pinia/nuxt', './type.d.ts']
       },
     },
-  },
-  colorMode: {
-    classSuffix: '',
-    fallback: 'light',
-    storageKey: 'color-mode',
   },
 
   tailwindcss: {

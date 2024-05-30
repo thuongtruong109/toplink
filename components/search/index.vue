@@ -31,13 +31,9 @@
       <button class="rounded-lg hover:bg-white p-[5px] block md:hidden">
         <IconsSearchToggle />
       </button>
-      <button class="rounded-lg border border-slate-200 dark:border-slate-600 text-gray-400 bg-white/70 dark:bg-white/10 opacity-60 dark:opacity-100 px-2 py-1.5 h-9 hidden md:flex items-center space-x-1 ">
+      <button class="rounded-lg border border-slate-200 dark:border-slate-600 text-gray-400 bg-white/70 dark:bg-white/10 opacity-60 dark:opacity-100 px-2 py-1.5 h-9 hidden md:flex items-center space-x-2">
         <IconsSearchLabel />
-        <span class="w-20 text-left text-sm md:text-base">Search</span>
-        <div class="flex items-center space-x-1">
-          <UiKeyboard text="Ctrl" />
-          <UiKeyboard text="K" />
-        </div>
+        <span class="w-28 text-left text-sm">Search</span>
       </button>
     </div>
     <TransitionRoot as="template" :show="open">

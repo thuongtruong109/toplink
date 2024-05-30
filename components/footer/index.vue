@@ -1,5 +1,5 @@
 <template>
     <footer class="p-2">
-        <p class="text-center text-xs text-gray-400 dark:text-gray-300">Copyright ©Tran Nguyen Thuong Truong, 2024</p>
+        <p class="text-center text-xs text-gray-400 dark:text-gray-300">Collected by ©Thuong Truong, 2024</p>
     </footer>
 </template>

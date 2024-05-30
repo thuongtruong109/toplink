@@ -8,11 +8,12 @@
   "homepage": "https://github.com/truongtop1/megalink#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/antfu/eslint-flat-config-utils.git"
+    "url": "git+https://github.com/thuongtruong109/toplink.git"
   },
-  "bugs": "https://github.com/truongtop1/megalink/issues",
+  "bugs": "https://github.com/thuongtruong109/toplink/issues",
   "keywords": [
-    "megalink"
+    "toplink",
+    "link"
   ],
   "engines": {
     "node": "^16.11.0 || ^17.0.0 || || ^18.0.0"
@@ -31,15 +32,9 @@
   },
   "devDependencies": {
     "@antfu/eslint-config": "^2.18.0",
-    "@iconify-json/carbon": "^1.1.33",
-    "@iconify-json/ic": "^1.1.17",
-    "@iconify-json/ph": "^1.1.13",
-    "@iconify-json/twemoji": "^1.1.15",
     "@nuxt/devtools": "^1.3.1",
-    "@nuxtjs/color-mode": "^3.4.1",
     "@nuxtjs/tailwindcss": "^6.12.0",
     "@stylistic/eslint-plugin-migrate": "^2.1.0",
-    "@unocss/nuxt": "^0.60.2",
     "@vueuse/nuxt": "^10.9.0",
     "eslint": "^8.57.0",
     "eslint-plugin-vue": "^9.26.0",
@@ -56,7 +51,6 @@
     "@pinia/nuxt": "^0.5.1",
     "@tailwindcss/aspect-ratio": "^0.4.2",
     "@tailwindcss/typography": "^0.5.13",
-    "dom-to-image": "^2.6.0",
     "pinia": "^2.1.7"
   }
 }
