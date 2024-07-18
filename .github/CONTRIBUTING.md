@@ -22,9 +22,9 @@ Always add features or fixes in a new branch, and never in `main`. This will hel
 
 We have a test suite for the project, and we expect you to write tests for your changes. Make sure the test suite passes locally and on CI.
 
-#### 5. Run `make pre`
+#### 5. Run pre-commit checks
 
-Before submitting your changes, run `make pre` to ensure your changes pass all checks. This will run the linter, tests, and other checks.
+Before submitting your changes, ensure your changes pass all checks. This will run the linter, tests, and other checks.
 
 #### 6. Update the documentation
 

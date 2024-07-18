@@ -78,7 +78,7 @@
             >
               <div class="border rounded-lg flex items-center space-x-2 p-2 w-full">
                 <IconsSearchLabel />
-                <input type="text" placeholder="Search links" class="border-none w-full" v-model="input">
+                <input type="text" placeholder="Search by category" class="border-none w-full" v-model="input">
               </div>
               <figure class="flex flex-col justify-center items-center mt-4 md:mt-6 h-40 text-sm text-gray-400" v-if="filtedList.length == 0">
                 <img src="/img/empty.png" alt="empty" width="148" height="148">

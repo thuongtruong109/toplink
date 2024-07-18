@@ -10,32 +10,12 @@ export default defineNuxtConfig({
     '@vueuse/nuxt',
     '@nuxtjs/tailwindcss',
     '@pinia/nuxt',
-    '@nuxtjs/i18n',
     '@huntersofbook/naive-ui-nuxt',
   ],
   build: {
     transpile: ['@headlessui/vue'],
   },
-
-  i18n: {
-    locales: [
-      {
-        code: 'en',
-        file: 'en-US.json',
-      },
-      { code: 'tr', file: 'tr-TR.json' },
-    ],
-    defaultLocale: 'en',
-    lazy: true,
-    langDir: 'locales/',
-    strategy: 'prefix_except_default',
-    detectBrowserLanguage: {
-      useCookie: true,
-      cookieKey: 'i18n_redirected',
-      redirectOn: 'root',
-    },
-  },
-
+  
   typescript: {
     tsConfig: {
       compilerOptions: {

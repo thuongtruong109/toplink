@@ -1,11 +1,11 @@
 {
-  "name": "megalink",
+  "name": "toplink",
   "private": true,
   "version": "1.0",
-  "description": "Linking You to the Web's Finest: 🌐 Explore - Connect - Click!",
+  "description": "🌐 Linking You to the Web's Finest: Explore - Connect - Click!",
   "author": "Tran Nguyen Thuong Truong <pattlactroi@gmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/truongtop1/megalink#readme",
+  "homepage": "https://github.com/thuongtruong109/toplink#readme",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/thuongtruong109/toplink.git"
@@ -47,7 +47,6 @@
   "dependencies": {
     "@headlessui/vue": "^1.7.22",
     "@huntersofbook/naive-ui-nuxt": "^1.2.0",
-    "@nuxtjs/i18n": "^8.3.1",
     "@pinia/nuxt": "^0.5.1",
     "@tailwindcss/aspect-ratio": "^0.4.2",
     "@tailwindcss/typography": "^0.5.13",

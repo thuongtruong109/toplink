@@ -7,6 +7,8 @@
 
 ### 🔮 Preview
 
+[Demo link](https://thuongtruong109.github.io/toplink)
+
 <img src="./public/preview.png" alt="preview" width="1000" />
 
 ### 💫 Tech stacks
